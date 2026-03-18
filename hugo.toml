@@ -1,3 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://torwoodbluepool.co.uk'
 locale = 'en-us'
-title = 'My New Hugo Project'
+title = 'Torwood Blue Pool — Investigation of a round brick lined blue pool at Torwood near Dunipace and Larbert'
+theme = 'torwood'
