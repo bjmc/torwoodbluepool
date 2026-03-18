@@ -1,0 +1,204 @@
+BODY {
+	color: #660330;
+	background-image: url(/web/20130724034940im_/http://ntgraphics.co.uk/images/stone_background2.jpg);
+	background-color: #CCCCCC;
+    }
+.imageleft{
+	padding-top: 0.2em;
+	padding-right: 1em;
+	padding-bottom: 0.2em;
+	padding-left: 0px;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+      }
+.imageright{
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	padding-top: 0.2em;
+	padding-right: 0px;
+	padding-bottom: 0.2em;
+	padding-left: 1em;
+      }
+
+.curtain {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #999999;
+	font-style: normal;
+	font-weight: bold;
+	font-variant: normal;
+	background-image: url(/web/20130724034940im_/http://ntgraphics.co.uk/images/curtain2.jpg);
+	text-transform: none;
+	line-height: 25px;
+}
+.body {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #660331;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+}
+.H3 {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #000099;
+	font-weight: normal;
+}
+.body_small {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #660331;
+	font-weight: normal;
+}
+.heading_one {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #660331;
+	font-style: normal;
+	font-weight: bold;
+}
+.paratitle {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #660330;
+	font-style: normal;
+}
+.bodymed {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color: #660330;
+}
+
+.smaller {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+}
+.parasmall {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #660330;
+	font-weight: bold;
+}
+.Body-small-green {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #009F00;
+}
+.BigYellow {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: bold;
+	color: #FFFF00;
+}
+.NEW {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bolder;
+	font-variant: normal;
+	color: #FF0000;
+}
+.ParaMini {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	color: #660331;
+}
+.Quote {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color: #0000FF;
+	border-top-width: 0em;
+	border-right-width: 0em;
+	border-bottom-width: 0em;
+	border-left-width: 0em;
+	margin-top: auto;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: 6em;
+}
+.Reply {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color: #003366;
+	border-top-width: 0em;
+	border-right-width: 0em;
+	border-bottom-width: 0em;
+	border-left-width: 0em;
+	margin-left: 6em;
+}
+.grey {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	color: #CCCCCC;
+}
+.comic {
+	font-family: "Comic Sans MS", "Lucida Handwriting", cursive;
+	font-size: 14pt;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color: #660330;
+}
+.photo {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color: #333300;
+}
+
+/*
+     FILE ARCHIVED ON 03:49:40 Jul 24, 2013 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 20:15:47 Mar 17, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  capture_cache.get: 0.551
+  load_resource: 2598.226
+  PetaboxLoader3.resolve: 72.088
+  PetaboxLoader3.datanode: 2086.638
+*/
