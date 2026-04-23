@@ -7,4 +7,7 @@
 
   {{ .Content }}
   {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+
+  {{ $comments := site.Data.guestbook.comments }}
+  {{ partial "comments.html" $comments }}
 {{ end }}
