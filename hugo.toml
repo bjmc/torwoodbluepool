@@ -1,4 +1,28 @@
 baseURL = 'https://torwoodbluepool.co.uk'
-locale = 'en-us'
-title = 'Torwood Blue Pool — Investigation of a round brick lined blue pool at Torwood near Dunipace and Larbert'
+locale = 'en-GB'
+title = 'Torwood Blue Pool'
 theme = 'torwood'
+
+[params]
+  description = 'Investigation of a round brick lined Blue Water Pool at Torwood near Dunipace and Larbert'
+
+[menus]
+  [[menus.main]]
+    name = 'What We Know'
+    pageRef = '/'
+    weight = 10
+
+  [[menus.main]]
+    name = 'Posts'
+    pageRef = '/posts'
+    weight = 20
+
+  [[menus.main]]
+    name = 'Words of Condolence'
+    pageRef = '/words-of-condolence'
+    weight = 30
+
+  [[menus.main]]
+    name = 'Contact'
+    pageRef = '/contact'
+    weight = 40

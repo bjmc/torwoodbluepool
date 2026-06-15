@@ -1,0 +1,17 @@
+{{ define "main" }}
+  <h1 class="entry-title">{{ .Title }}</h1>
+
+  {{ with .Date }}
+    {{ $dateMachine := . | time.Format "2006-01-02T15:04:05-07:00" }}
+    {{ $dateHuman := . | time.Format ":date_long" }}
+    <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+  {{ end }}
+
+  {{ .Content }}
+
+  {{ $comments := site.Data.guestbook.comments }}
+  {{ if gt (len $comments) 0 }}
+    <h2 class="comments-title">{{ len $comments }} thoughts on the investigation</h2>
+    {{ partial "comments.html" $comments }}
+  {{ end }}
+{{ end }}

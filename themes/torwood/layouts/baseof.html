@@ -4,14 +4,25 @@
   {{ partial "head.html" . }}
 </head>
 <body>
-  <header>
-    {{ partial "header.html" . }}
-  </header>
-  <main>
-    {{ block "main" . }}{{ end }}
-  </main>
-  <footer>
-    {{ partial "footer.html" . }}
-  </footer>
+  <div class="wrapper">
+    <header class="site-header">
+      <h1 class="site-title"><a href="{{ .Site.Home.RelPermalink }}">{{ site.Title }}</a></h1>
+      <p class="site-description">{{ site.Params.description | default site.Title }}</p>
+    </header>
+    <nav class="site-nav">
+      {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+    </nav>
+    <div class="content-area">
+      <main class="main-content">
+        {{ block "main" . }}{{ end }}
+      </main>
+      <aside class="sidebar">
+        {{ partial "sidebar.html" . }}
+      </aside>
+    </div>
+    <footer class="site-footer">
+      {{ partial "footer.html" . }}
+    </footer>
+  </div>
 </body>
 </html>

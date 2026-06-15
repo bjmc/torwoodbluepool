@@ -1,0 +1,19 @@
+{{- $comments := . -}}
+
+<ul class="comments">
+  {{- range $comments }}
+    <li id="comment-{{ .id }}">
+      <div class="comment">
+        <strong>{{ .author }}</strong>
+        <time>{{ .date }}</time>
+        <div class="content">
+          {{ .content | markdownify }}
+        </div>
+      </div>
+
+      {{- if .replies }}
+        {{ partial "comments.html" .replies }}
+      {{- end }}
+    </li>
+  {{- end }}
+</ul>

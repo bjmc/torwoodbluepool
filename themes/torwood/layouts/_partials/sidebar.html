@@ -1,0 +1,47 @@
+{{- /* Renders the sidebar with Recent Posts, Archives, and Recent Comments */ -}}
+
+{{- /* Recent Posts */ -}}
+<section>
+  <h3>Recent Posts</h3>
+  <ul>
+    {{- $posts := where site.RegularPages "Section" "posts" -}}
+    {{- range first 5 $posts.ByDate.Reverse }}
+      <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+    {{- else }}
+      <li>No posts yet.</li>
+    {{- end }}
+  </ul>
+</section>
+
+{{- /* Post Archives (monthly) */ -}}
+{{- if gt (len (where site.RegularPages "Section" "posts")) 0 }}
+<section>
+  <h3>Post Archives</h3>
+  <ul>
+    {{- range (where site.RegularPages "Section" "posts").GroupByDate "January 2006" }}
+      <li><a href="/posts/">{{ .Key }}</a></li>
+    {{- end }}
+  </ul>
+</section>
+{{- end }}
+
+{{- /* Recent Comments */ -}}
+{{- $guestbookComments := site.Data.guestbook.comments -}}
+{{- $condolenceComments := site.Data.condolences.comments -}}
+{{- $allComments := slice -}}
+{{- range $guestbookComments }}
+  {{- $allComments = $allComments | append . -}}
+{{- end -}}
+{{- range $condolenceComments }}
+  {{- $allComments = $allComments | append . -}}
+{{- end -}}
+{{- if gt (len $allComments) 0 }}
+<section>
+  <h3>Recent Comments</h3>
+  <ul>
+    {{- range first 5 $allComments }}
+      <li>{{ .author }} on <a href="/home/">{{ "What We Know" }}</a></li>
+    {{- end }}
+  </ul>
+</section>
+{{- end }}

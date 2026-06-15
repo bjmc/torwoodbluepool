@@ -1,9 +1,26 @@
 {{ define "main" }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <section>
-      <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-      {{ .Summary }}
-    </section>
+
+  <h2>Latest Posts</h2>
+  {{ $posts := where site.RegularPages "Section" "posts" }}
+  {{ if gt (len $posts) 0 }}
+    <ul class="post-listing">
+      {{ range first 5 $posts.ByDate.Reverse }}
+        <li>
+          <h3 class="post-title"><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
+          <p class="post-meta">{{ .Date | time.Format ":date_long" }}</p>
+          <p class="post-summary">{{ .Summary | plainify | truncate 200 }}</p>
+        </li>
+      {{ end }}
+    </ul>
+    <p><a href="/posts/">View all posts &rarr;</a></p>
+  {{ else }}
+    <p>No posts yet. Check back soon for updates on the investigation.</p>
+  {{ end }}
+
+  {{ if site.Data.guestbook.comments }}
+    <h2>Recent Comments</h2>
+    {{ $comments := site.Data.guestbook.comments }}
+    {{ partial "comments.html" (first 5 $comments) }}
   {{ end }}
 {{ end }}

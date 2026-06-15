@@ -1,188 +1,421 @@
-BODY {
-	color: #660330;
-	background-image: url("../img/stone_background2.jpg");
-	background-color: #CCCCCC;
-    }
-.imageleft{
-	padding-top: 0.2em;
-	padding-right: 1em;
-	padding-bottom: 0.2em;
-	padding-left: 0px;
-	border-top-width: 0px;
-	border-right-width: 0px;
-	border-bottom-width: 0px;
-	border-left-width: 0px;
-	border-top-style: none;
-	border-right-style: none;
-	border-bottom-style: none;
-	border-left-style: none;
-      }
-.imageright{
-	border-top-width: 0px;
-	border-right-width: 0px;
-	border-bottom-width: 0px;
-	border-left-width: 0px;
-	border-top-style: none;
-	border-right-style: none;
-	border-bottom-style: none;
-	border-left-style: none;
-	padding-top: 0.2em;
-	padding-right: 0px;
-	padding-bottom: 0.2em;
-	padding-left: 1em;
-      }
+/* === TORWOOD BLUE POOL THEME ===
+   Styling based on the original hand-coded site by Nigel Turnbull
+   (ntgraphics.co.uk), with layout structure inspired by the
+   WordPress version (torwoodbluepool.co.uk).
+*/
 
-/*.curtain {
-	font-family: Geneva, Arial, Helvetica, sans-serif;
-	font-size: 12px;
-	color: #999999;
-	font-style: normal;
-	font-weight: bold;
-	font-variant: normal;
-	background-image: url(curtain2.jpg);
-	text-transform: none;
-	line-height: 25px;
-}*/
+/* === RESET & BASE === */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Geneva, Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  color: #660330;
+  background-image: url("../img/stone_background2.jpg");
+  background-color: #CCCCCC;
+  background-attachment: fixed;
+  line-height: 1.5;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+a {
+  color: #660330;
+}
+a:hover {
+  color: #99004d;
+}
+
+/* === PAGE WRAPPER === */
+.wrapper {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+/* === HEADER === */
+.site-header {
+  background: rgba(102, 3, 48, 0.85);
+  color: #CCCCCC;
+  padding: 1.5em 2em 0.5em;
+}
+
+.site-title {
+  margin: 0;
+  font-size: 1.6em;
+  font-weight: bold;
+}
+.site-title a {
+  color: #CCCCCC;
+  text-decoration: none;
+}
+.site-title a:hover {
+  color: #FFFFFF;
+}
+
+.site-description {
+  margin: 0.2em 0 0.5em;
+  font-size: 0.85em;
+  font-weight: normal;
+  color: #999999;
+}
+
+/* === NAVIGATION === */
+.site-nav {
+  background: rgba(102, 3, 48, 0.9);
+  border-top: 1px solid #99004d;
+}
+.site-nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+.site-nav li {
+  margin: 0;
+}
+.site-nav a {
+  display: block;
+  padding: 0.6em 1.2em;
+  color: #CCCCCC;
+  text-decoration: none;
+  font-size: 0.9em;
+  font-weight: bold;
+}
+.site-nav a:hover,
+.site-nav a.active,
+.site-nav a[aria-current="page"] {
+  background: rgba(204, 204, 204, 0.15);
+  color: #FFFFFF;
+}
+
+/* === MAIN CONTENT AREA (two-column) === */
+.content-area {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0;
+  background: rgba(255, 255, 255, 0.75);
+  min-height: 60vh;
+}
+
+.main-content {
+  flex: 1 1 70%;
+  padding: 1.5em 2em;
+  min-width: 0;
+}
+
+.sidebar {
+  flex: 0 0 30%;
+  padding: 1.5em 1.5em;
+  background: rgba(102, 3, 48, 0.06);
+  border-left: 1px solid rgba(102, 3, 48, 0.15);
+  font-size: 0.9em;
+}
+
+/* === SIDEBAR WIDGETS === */
+.sidebar section {
+  margin-bottom: 1.5em;
+}
+.sidebar h3 {
+  font-size: 1em;
+  font-weight: bold;
+  color: #660330;
+  border-bottom: 1px solid rgba(102, 3, 48, 0.2);
+  padding-bottom: 0.3em;
+  margin-top: 0;
+  margin-bottom: 0.5em;
+}
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.sidebar li {
+  margin-bottom: 0.4em;
+  line-height: 1.4;
+}
+.sidebar a {
+  text-decoration: none;
+}
+.sidebar a:hover {
+  text-decoration: underline;
+}
+
+/* === FOOTER === */
+.site-footer {
+  background: rgba(102, 3, 48, 0.85);
+  color: #999999;
+  padding: 1em 2em;
+  font-size: 0.8em;
+  text-align: center;
+  clear: both;
+}
+.site-footer a {
+  color: #CCCCCC;
+  text-decoration: none;
+}
+.site-footer a:hover {
+  color: #FFFFFF;
+}
+
+/* === TYPOGRAPHY === */
+h1, h2, h3, h4 {
+  color: #660330;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 { font-size: 1.6em; }
+h2 { font-size: 1.3em; }
+h3 { font-size: 1.1em; }
+
+.entry-title {
+  margin-top: 0;
+}
+
+time {
+  display: block;
+  font-size: 0.85em;
+  color: #666;
+  margin-bottom: 1em;
+}
+
+/* === POST LISTING === */
+.post-listing {
+  list-style: none;
+  padding: 0;
+  margin: 1em 0;
+}
+.post-listing li {
+  margin-bottom: 1.5em;
+  padding-bottom: 1.2em;
+  border-bottom: 1px solid rgba(102, 3, 48, 0.12);
+}
+.post-listing li:last-child {
+  border-bottom: none;
+}
+.post-listing .post-title {
+  font-size: 1.15em;
+  margin: 0 0 0.2em;
+}
+.post-listing .post-title a {
+  text-decoration: none;
+}
+.post-listing .post-title a:hover {
+  text-decoration: underline;
+}
+.post-listing .post-meta {
+  font-size: 0.85em;
+  color: #666;
+  margin: 0 0 0.4em;
+}
+.post-listing .post-summary {
+  font-size: 0.95em;
+  line-height: 1.5;
+}
+
+/* === COMMENTS === */
+.comments-title {
+  font-size: 1.2em;
+  margin-top: 2em;
+}
+
+.comments {
+  list-style: none;
+  padding: 0;
+  margin: 1em 0;
+}
+
+.comments .comments {
+  margin-left: 2em;
+  padding-left: 1em;
+  border-left: 2px solid rgba(102, 3, 48, 0.15);
+}
+
+.comment {
+  margin-bottom: 1.2em;
+  padding: 0.8em;
+  background: rgba(255, 255, 255, 0.5);
+  border-radius: 4px;
+}
+
+.comment strong {
+  color: #660330;
+}
+
+.comment time {
+  display: inline;
+  font-size: 0.8em;
+  color: #888;
+  margin-left: 0.5em;
+}
+
+.comment .content {
+  margin-top: 0.4em;
+  font-size: 0.95em;
+  line-height: 1.5;
+}
+
+/* === ORIGINAL NTGRAPHICS CSS CLASSES === */
+/* Preserved for use in Markdown content */
+
+.imageleft {
+  float: left;
+  padding: 0.2em 1em 0.2em 0;
+  border: none;
+}
+.imageright {
+  float: right;
+  padding: 0.2em 0 0.2em 1em;
+  border: none;
+}
+
 .body {
-	font-family: Geneva, Arial, Helvetica, sans-serif;
-	font-size: 16px;
-	color: #660331;
-	font-style: normal;
-	font-weight: normal;
-	font-variant: normal;
+  font-family: Geneva, Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  color: #660331;
 }
+
 .H3 {
-	font-family: Geneva, Arial, Helvetica, sans-serif;
-	font-size: 18px;
-	color: #000099;
-	font-weight: normal;
+  font-family: Geneva, Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  color: #000099;
+  font-weight: normal;
 }
+
 .body_small {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 10px;
-	color: #660331;
-	font-weight: normal;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10px;
+  color: #660331;
 }
+
 .heading_one {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 14px;
-	color: #660331;
-	font-style: normal;
-	font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  color: #660331;
+  font-weight: bold;
 }
+
 .paratitle {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 16px;
-	font-weight: bold;
-	color: #660330;
-	font-style: normal;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  color: #660330;
 }
+
 .bodymed {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 12px;
-	font-style: normal;
-	line-height: normal;
-	font-weight: normal;
-	font-variant: normal;
-	color: #660330;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  color: #660330;
 }
 
 .smaller {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 10px;
-	font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10px;
+  font-weight: bold;
 }
+
 .parasmall {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 14px;
-	color: #660330;
-	font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  color: #660330;
+  font-weight: bold;
 }
+
 .Body-small-green {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 16px;
-	color: #009F00;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  color: #009F00;
 }
+
 .BigYellow {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 24px;
-	font-style: normal;
-	font-weight: bold;
-	color: #FFFF00;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  color: #FFFF00;
 }
+
 .NEW {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 12px;
-	font-style: normal;
-	line-height: normal;
-	font-weight: bolder;
-	font-variant: normal;
-	color: #FF0000;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: bolder;
+  color: #FF0000;
 }
+
 .ParaMini {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 12px;
-	font-style: normal;
-	line-height: normal;
-	font-weight: bold;
-	font-variant: normal;
-	color: #660331;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  color: #660331;
 }
+
 .Quote {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 12px;
-	font-style: normal;
-	line-height: normal;
-	font-weight: normal;
-	font-variant: normal;
-	color: #0000FF;
-	border-top-width: 0em;
-	border-right-width: 0em;
-	border-bottom-width: 0em;
-	border-left-width: 0em;
-	margin-top: auto;
-	margin-right: auto;
-	margin-bottom: auto;
-	margin-left: 6em;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  color: #0000FF;
+  margin-left: 6em;
 }
+
 .Reply {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 12px;
-	font-style: normal;
-	line-height: normal;
-	font-weight: normal;
-	font-variant: normal;
-	color: #003366;
-	border-top-width: 0em;
-	border-right-width: 0em;
-	border-bottom-width: 0em;
-	border-left-width: 0em;
-	margin-left: 6em;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  color: #003366;
+  margin-left: 6em;
 }
+
 .grey {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 12px;
-	font-style: normal;
-	line-height: normal;
-	font-weight: bold;
-	font-variant: normal;
-	color: #CCCCCC;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  color: #CCCCCC;
 }
+
 .comic {
-	font-family: "Comic Sans MS", "Lucida Handwriting", cursive;
-	font-size: 14pt;
-	font-style: normal;
-	line-height: normal;
-	font-weight: normal;
-	font-variant: normal;
-	color: #660330;
+  font-family: "Comic Sans MS", "Lucida Handwriting", cursive;
+  font-size: 14pt;
+  color: #660330;
 }
+
 .photo {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 10pt;
-	font-style: normal;
-	line-height: normal;
-	font-weight: normal;
-	font-variant: normal;
-	color: #333300;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10pt;
+  color: #333300;
+}
+
+/* === BLOCKQUOTES === */
+blockquote {
+  margin: 1em 0;
+  padding: 0.5em 1em 0.5em 2em;
+  border-left: 3px solid #660330;
+  color: #555;
+  font-style: italic;
+}
+
+/* === HORIZONTAL RULES === */
+hr {
+  border: none;
+  border-top: 1px solid rgba(102, 3, 48, 0.2);
+  margin: 1.5em 0;
+}
+
+/* === RESPONSIVE === */
+@media (max-width: 768px) {
+  .main-content,
+  .sidebar {
+    flex: 1 1 100%;
+  }
+  .sidebar {
+    border-left: none;
+    border-top: 1px solid rgba(102, 3, 48, 0.15);
+  }
+  .site-nav ul {
+    flex-direction: column;
+  }
 }
