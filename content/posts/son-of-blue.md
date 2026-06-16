@@ -41,9 +41,13 @@ tar residue in the manhole.
 
 Carbrook Manhole
 
+![Map of Glenbervie](/img/mapglenbervie.jpg)
+
 About a mile to the east is Glenbervie House and we know that in 1850 it had its
 own Gas Plant to, presumably, fuel the new gas lighting. Carbrook could quite
 reasonably have had its own Gas Plant.
+
+![Coal gas manufacturing plant, 1911](/img/coalgasplant.jpg)
 
 Stephanie found the following drawing of a coal gas manufacturing plant from
 1911 and reckoned the shaft may have been filled with water. A bell shaped lid

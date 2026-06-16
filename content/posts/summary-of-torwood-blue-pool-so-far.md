@@ -6,6 +6,8 @@ title = 'Summary Of Torwood Blue Pool So Far'
   author = 'Admin'
 +++
 
+![Composite view of the Torwood Blue Pool](/img/composite.jpg)
+
 Known by Denny folk as The Blue Pool and by Plean folk as The Blue Water — I
 created a hybrid title, The Torwood Blue Water Pool.
 
