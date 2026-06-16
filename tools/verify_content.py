@@ -195,13 +195,13 @@ def main():
     print("=" * 72)
 
     archive_html = load(ARCHIVES / "What We Know _ Torwood Blue Pool.html")
-    home_md = load(CONTENT / "home.md")
+    home_md = load(CONTENT / "_index.md")
 
     if archive_html and home_md:
         archive_text = extract_entry_content(archive_html)
         md_text = extract_text_from_markdown(home_md)
         r = similarity_ratio(md_text, archive_text)
-        diff = compare_texts("ARCHIVE: entry-content", archive_text, "HUGO: home.md", md_text)
+        diff = compare_texts("ARCHIVE: entry-content", archive_text, "HUGO: _index.md", md_text)
 
         print(f"\nSimilarity: {r:.1%}")
 
@@ -243,9 +243,9 @@ def main():
             print("❌ Low match — review diffs:")
             for line in diff[:50]:
                 print(line)
-        results.append(("home.md", "CHECKED", f"{r:.1%}"))
+        results.append(("_index.md (home page)", "CHECKED", f"{r:.1%}"))
     else:
-        results.append(("home.md", "ERROR", "Missing source"))
+        results.append(("_index.md (home page)", "ERROR", "Missing source"))
 
     print()
     print("=" * 72)
