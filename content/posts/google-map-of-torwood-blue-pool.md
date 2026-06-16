@@ -6,10 +6,13 @@ tags = ['Torwood']
 [params]
   author = 'Nigel Turnbull'
 +++
+
 This is a customised Google map showing markers for features around the Blue Pool. You can click on the text below the map to enlarge it.
 
 The information on each marker will be updated if it becomes available.
 
 There is currently no way to have more than one layer so all the features have to be visible at the same time.
-<iframe frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="https://web.archive.org/web/20150724205425if_/http://maps.google.co.uk/maps/ms?hl=en&ie=UTF8&t=h&msa=0&msid=113693484573484550579.000475d3ff79092815d26&ll=56.034622,-3.881456&spn=0.049445,0.135827&output=embed"></iframe>
-View [https://web.archive.org/web/20150724205425/http://maps.google.co.uk/maps/ms?hl=en&ie=UTF8&t=h&msa=0&msid=113693484573484550579.000475d3ff79092815d26&ll=56.034622,-3.881456&spn=0.049445,0.135827&source=embed](Torwood Blue Pool Investigation) in a larger map
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1lYhFmkwp6QO7cyarrFvFexFWTxg&hl=en&ehbc=2E312F" width="640" height="480"></iframe>
+
+View the [Torwood Blue Pool Investigation map](https://www.google.com/maps/d/edit?mid=1lYhFmkwp6QO7cyarrFvFexFWTxg&hl=en&usp=sharing) in a larger map.

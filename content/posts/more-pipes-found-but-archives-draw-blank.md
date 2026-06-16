@@ -6,7 +6,7 @@ tags = ['Torwood']
 [params]
   author = 'Nigel Turnbull'
 +++
-<img src="/img/arch-300x223.jpg"/>
+![Arch showing clearly the position of the two six inch pipes](/img/arch.jpg)
 
 Arch showing clearly the position of the two six inch pipes
 
@@ -19,7 +19,7 @@ There are other items that I will view on my next visit but they have to be orde
 I visited the Blue Pool about three weeks ago with my scrubbing brush. After a few minutes the water was totally cloudy and I spent the next few hours guessing where the weed might be.
 
 The water took a week to clear properly and I realised that saying, “You missed a bit”, was a gross understatement.
-<img src="/img/newpipe-300x214.jpg"/>
+![A new 6 inch pipe discovered on the opposite side to the arch](/img/newpipe.jpg)
 
 A new 6 inch pipe discovered on the opposite side to the arch
 
@@ -30,7 +30,7 @@ I found a new 6 inch clay pipe (with spigot end) poking through the wall but not
 Another find, just above the bottom debris, was a 12 inch length of 1.5 inch iron pipe sticking out horizontally from the wall and pointing over to the brick arch. This iron pipe appears to line up with the manhole. The end of the pipe has been cut at a deliberate angle of about 30 degrees to the horizontal — the photo quality is very poor.
 
 The extension rod that used to stick up from the manhole has vanished.
-<img src="/img/ironpipe-300x210.jpg"/>
+![1.5 inch iron pipe with slightly red colouring sticks out about one foot from the wall just above the level of the bottom debris](/img/ironpipe.jpg)
 
 1.5 inch iron pipe with slightly red colouring sticks out about one foot from the wall just above the level of the bottom debris
 
@@ -41,7 +41,7 @@ As I prepared the photos for this update, I was stunned to see something just in
 
 All pipe sizes so far are near-enough guesstimates. I will get round to accurately measuring them at some point.
 Access on the tree-line side of the pool has been almost impossible. After my last visit, you can walk all around the circumference with ease.
-<img src="/img/path-300x182.jpg"/>
+![Easy access is now possible all around the pool](/img/path.jpg)
 
 Easy access is now possible all around the pool
 

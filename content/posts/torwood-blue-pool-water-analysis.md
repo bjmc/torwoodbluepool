@@ -7,7 +7,7 @@ tags = ['Torwood']
   author = 'Nigel Turnbull'
 +++
 My last visit to the pool was 20 September 2009. The water was almost as clear as my previous visit on 31 August but there was no sign of the irregular round blue circle in the centre of the bottom — everything was the same kaki colour.
-<img src="/img/poolbottomnorth-300x225.jpg"/>
+![The image is slightly confused with some reflections of the trees overhead mixing with the hairy slime.](/img/poolbottomnorth.jpg)
 
 The image is slightly confused with some reflections of the trees overhead mixing with the hairy slime.
 
@@ -23,7 +23,7 @@ ELEMENTTORWOOD BLUE POOLABERDEEN TAP WATERAlAluminium1.430.02BBoron<0.2<0.2CaCal
 Duplicate sample tested 1 Dec 2009 — pH 6.0
 
 The results are reassuringly unspectacular.
-<img src="/img/pipe-300x230.jpg"/>
+![Pipe appears to be glazed ceramic — difficult to tell from the photo](*[Image: pipe — not available in archives]*)
 
 Pipe appears to be glazed ceramic
 — difficult to tell from the photo
@@ -32,7 +32,7 @@ Pipe appears to be glazed ceramic
 I started scrubbing some of the hairy slime from the internal brickwork of the Blue Pool in the hope of finding the brick arch. The water had only partly cleared with half an hour to sunset when I noticed a pipe about six inches in diameter at about two feet below the surface. Not likely to be an overflow at that depth but a definite candidate for an inlet pipe.
 The water in the pool would not be clear before darkness fell so that was it for the day. I intend cleaning all the hairy slime from the internal brickwork and photographing from an underwater camera housing. I suspect the brick arch will be the outlet and will line up with the manhole but that’s just me thinking aloud.
 Some interesting figures: A line drawn from the six inch pipe, through the centre of the blue pool, goes through the centre of the manhole and that line has a compass bearing of 123 degrees magnetic — reading from a hand-held silva compass sighted by eye and will easily have a five degree error — more on this shortly.
-<img src="/img/brickworkpipe-300x203.jpg"/>
+![People are starting to refer to me as The Blue Pool Guy](/img/brickworkpipe.jpg)
 
 People are starting to refer to me as The Blue Pool Guy
 
@@ -46,7 +46,7 @@ Angus Gillies the Gamekeeper (now deceased) lived in a small lodge about 200 met
 Jay was with the Gamekeeper around 1960 just prior to a Fox Hunt. The Gamekeeper told Jay to look at the bottom of the Blue Pool where Jay clearly saw lots of bricks and timber planks (not trees). The Gamekeeper explained that the Pool once had a brick beehive shaped roof that had fallen into the pool and Jay could clearly see the debris on the bottom.
 
 It is not clear whether the beehive roof started at ground level or if there was a wall with the beehive roof on top. Jay does not know if Gamekeeper Angus Gillies saw the beehive roof himself or was recounting a story told to him by an older person.
-<img src="/img/slate.jpg"/>
+![Roofing Slates](/img/slate.jpg)
 
 Roofing Slates
 
@@ -66,7 +66,7 @@ Access to a spring on Torwood Estate was granted in 1865, but it was not tapped 
 A straight line is not a requirement for a water supply pipe but it would have been nice.
 
 The RSNH water supply theory is still being assessed.
-<img src="/img/halfround.jpg"/>
+![Half Round Cast Iron Gutter](/img/halfround.jpg)
 
 Half Round Cast Iron Gutter
 
@@ -77,7 +77,7 @@ I now come to something that I have been holding on to but have made no progress
 
 Some slates; a piece of angle iron around 6×4 inches; a short length of cast-iron half-round guttering; two curved pieces of metal.
 The first piece of curved metal is flat-bar about 2 inch by 3/8 inch and is bent to the same curve as the pool. The other curved metal piece is a lot more intricate. It is a shaped moulding but also custom made to match the circumference of the pool.
-<img src="/img/moulding.jpg"/>
+![Cast Iron Moulding and Two Inch Flat Bar](/img/moulding.jpg)
 
 Cast Iron Moulding and Two Inch Flat Bar
 
@@ -91,6 +91,6 @@ The Callendar House computer also has an aerial photo showing the Tank from arou
 Sometime in the 1980’s (my educated guess) the Forestry Commision planted their usual dense conifers in the area but they stopped at the pool — were they lovers of pools ? My friend and accomplice, Andy, is the same age as myself and has worked most of his life in Forestry — he knows his trees. He pointed out something in full view but not immediately obvious.
 The power companies maintain their Pylon Lines and no trees are allowed within a certain safe distance of the transmission lines. It may be ugly, but if it had not been for the nearby pylon line, our Blue Pool would have been annihilated — destroyed by a huge plough and smothered by a dense conifer plantation.
 The time between updates cannot be predicted. It may be days or months. I will always send out an email to inform you of an update so you don’t have to trawl the page to spot any changes. Let me know if you would like your email added to the mailing list.
-<img src="/img/nsw.jpg"/>
+![Torwood Blue Pool](/img/nsw.jpg)
 
 Torwood Blue Pool

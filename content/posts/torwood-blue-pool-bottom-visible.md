@@ -6,7 +6,7 @@ tags = ['Torwood']
 [params]
   author = 'Nigel Turnbull'
 +++
-<img src="/img/20aug2009bluepoolbottom-300x225.jpg"/>
+![The bottom is visible and the pool is almost devoid of life](/img/20aug2009bluepoolbottom.jpg)
 
 The bottom is visible and the pool is almost devoid of life
 
@@ -18,7 +18,7 @@ There was no algae type growth on or in the water — compare that with the phot
 The internal brickwork was covered with hairy slimy algae stuff but there were surprising patches of brickwork that were clean. The photo, for some reason, shows the colour of the tree trunks on the bottom to be green but the colour was actually a dark Khaki and the hairy slime had the identical colour.
 
 This very dull neutral type colour helped emphasise a circular patch, about 2 metres in diameter, in the centre of the bottom. This irregular circular patch had a fairly vivid blue colour with small patches of white dotted about.
-<img src="/img/overflowsw-300x225.jpg"/>
+![Torwood Blue Pool Overflow South West](*[Image: overflowsw — not available in archives]*)
 
 Torwood Blue Pool Overflow South West
 
@@ -28,7 +28,7 @@ I even tried sticking my face under the water but I could not see any better tha
 A conversation with a local farmer revealed that the local fire department are aware of the pool as an Emergency Water Supply and have used it to tackle small forest fires. On one occasion they seemingly emptied it.
 
 The farmer’s opinion, based on information from local miners, is that the pool was something to do with the local coal mine — possibly an airshaft.
-<img src="/img/overflowse-300x225.jpg"/>
+![Torwood Blue Pool Overflow South East](*[Image: overflowse — not available in archives]*)
 
 Torwood Blue Pool Overflow South East
 

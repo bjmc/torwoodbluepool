@@ -9,7 +9,7 @@ tags = ['Torwood']
 > **Eileen Livingston from Plean, Scotland.**
 
 l can say for sure that the pool doesn’t just fill up with rain water and then evaporate to change levels. l have been up one day and the level has been about 4 feet (1m) from the top. However, the very next day it was full to the brim. There was no rainfall through the night and even if there had been it would never have been that much! The same thing has happened the other way round (full one day – 1m below the next).
-<img src="/img/sampling-300x180.jpg"/>
+![Torwood Blue Pool Water Sample](/img/sampling.jpg)
 
 Trying to avoid the ugly algae growth
 
@@ -19,7 +19,7 @@ Eileen’s information establishes that the level in the pool is not significant
 The pool has an internal diameter of 6.1 metres (20 feet).
 Let us speculate. If the pool level is changing overnight by one metre or 6,423 gallons (about 200 normal baths at 8 inches of water), I think we can safely assume that the pool has a ‘goesinty’ and a ‘goesooty’ — that’s Scottish engineering talk for inlet and outlet. This is not a stagnant pool.
 Some rough numbers — if the pool level recovered by 6,423 gallons in 16 hours, that would indicate an inlet flow of 400 gallons per hour or about 6 gallons per minute — just slightly more than a garden hose at mains pressure. Allowing for a variable outlet flow while the filling is in progress would be stretching my mathematics.
-<img src="/img/watersample.jpg"/>
+![Torwood Blue Pool Water Sample](/img/watersample.jpg)
 
 Water Sample
 

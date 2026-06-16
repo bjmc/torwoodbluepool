@@ -13,14 +13,16 @@
   </ul>
 </section>
 
-{{- /* Post Archives (monthly) */ -}}
-{{- if gt (len (where site.RegularPages "Section" "posts")) 0 }}
+{{- /* Post Archives */ -}}
+{{- $postCount := len (where site.RegularPages "Section" "posts") -}}
+{{- if gt $postCount 0 }}
 <section>
   <h3>Post Archives</h3>
   <ul>
     {{- range (where site.RegularPages "Section" "posts").GroupByDate "January 2006" }}
-      <li><a href="/posts/">{{ .Key }}</a></li>
+      <li>{{ .Key }} ({{ len .Pages }})</li>
     {{- end }}
+    <li><a href="/posts/">View all {{ $postCount }} posts &rarr;</a></li>
   </ul>
 </section>
 {{- end }}

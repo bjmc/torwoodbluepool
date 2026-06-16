@@ -6,7 +6,7 @@ tags = ['Torwood']
 [params]
   author = 'Nigel Turnbull'
 +++
-<img src="/img/Brick-arch-exposed-300x199.jpg"/>
+![Camera at an awkward angle to avoid surface reflections of the sky](/img/arch.jpg)
 
 Camera at an awkward angle to avoid surface reflections of the sky
 
@@ -22,7 +22,7 @@ Both pipes are directly above the Brick Arch opening.
 Neil and myself remember the brick Arch opening as being clear of the bottom, so, assuming this is the only Brick Arch (not yet proven), we can deduce from its half buried state that the pool bottom is about a metre higher than it was in the 1960’s (at least round the edges) and the trees and weed covered debris will be well covering the loose bricks reported previously as having fallen in, presumably from a collapsed superstructure (a wall round the pool).
 My biggest surprise was the size of the Brick Arch — much bigger than I remember. It is difficult to guess sizes under water but I am sure the diameter of the semi-circular arch is at the very least one metre.
 Another find was a heavy plank that had been driven down vertically into the bottom debris. It was tight against the brickwork and just covering the edge of the Arch. Its top was about half way between the Arch and the surface. I took a long stick and pushed it over for a better look. My best guess at this stage is that its cross section is about 10 x 2.5 inches. It is tapered towards the top for some reason. Maybe later I will haul it out for a better look.
-<img src="/img/two-six-inch-pipes-300x261.jpg"/>
+![6 Inch Pipes](/img/two-six-inch-pipes.jpg)
 
 6 Inch Pipes
 
