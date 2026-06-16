@@ -1,15 +1,20 @@
 {{ define "main" }}
   <h1 class="entry-title">{{ .Title }}</h1>
   {{ .Content }}
-  {{ if gt (len .Pages) 0 }}
-    <ul class="post-listing">
-      {{ range .Pages.ByDate.Reverse }}
-        <li>
-          <h2 class="post-title"><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-          <p class="post-meta">{{ .Date | time.Format ":date_long" }}</p>
-          <p class="post-summary">{{ .Summary | plainify | truncate 300 }}</p>
-        </li>
-      {{ end }}
-    </ul>
+  {{ $pages := .Pages.ByDate.Reverse }}
+  {{ if gt (len $pages) 0 }}
+    {{ range $pages.GroupByDate "January 2006" }}
+      {{ $anchor := .Key | urlize }}
+      <h2 id="{{ $anchor }}">{{ .Key }}</h2>
+      <ul class="post-listing">
+        {{ range .Pages }}
+          <li>
+            <h3 class="post-title"><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
+            <p class="post-meta">{{ .Date | time.Format ":date_long" }}</p>
+            <p class="post-summary">{{ .Summary | plainify | truncate 300 }}</p>
+          </li>
+        {{ end }}
+      </ul>
+    {{ end }}
   {{ end }}
 {{ end }}

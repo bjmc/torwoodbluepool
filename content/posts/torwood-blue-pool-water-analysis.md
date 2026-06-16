@@ -2,7 +2,6 @@
 date = 2009-10-06T00:00:00+00:00
 draft = false
 title = 'Torwood Blue Pool Water Analysis'
-tags = ['Torwood']
 [params]
   author = 'Nigel Turnbull'
 +++

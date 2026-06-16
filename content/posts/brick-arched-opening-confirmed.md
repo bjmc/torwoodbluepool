@@ -2,7 +2,6 @@
 date = 2009-08-26T00:00:00+00:00
 draft = false
 title = 'Brick Arched Opening Confirmed'
-tags = ['Torwood']
 [params]
   author = 'Nigel Turnbull'
 +++

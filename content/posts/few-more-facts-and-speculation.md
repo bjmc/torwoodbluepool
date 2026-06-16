@@ -2,7 +2,6 @@
 date = 2009-10-15T00:00:00+00:00
 draft = false
 title = 'Few More Facts And Speculation'
-tags = ['Torwood']
 [params]
   author = 'Nigel Turnbull'
 +++

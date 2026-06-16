@@ -2,7 +2,6 @@
 date = 2011-10-27T00:00:00+00:00
 draft = false
 title = 'Mining Consultant Assessment'
-tags = ['Torwood']
 [params]
   author = 'Admin'
 +++

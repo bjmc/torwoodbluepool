@@ -20,7 +20,8 @@
   <h3>Post Archives</h3>
   <ul>
     {{- range (where site.RegularPages "Section" "posts").GroupByDate "January 2006" }}
-      <li>{{ .Key }} ({{ len .Pages }})</li>
+      {{- $anchor := .Key | urlize }}
+      <li><a href="/posts/#{{ $anchor }}">{{ .Key }} ({{ len .Pages }})</a></li>
     {{- end }}
     <li><a href="/posts/">View all {{ $postCount }} posts &rarr;</a></li>
   </ul>

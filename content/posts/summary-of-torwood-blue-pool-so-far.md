@@ -2,7 +2,6 @@
 date = 2011-02-08T00:00:00+00:00
 draft = false
 title = 'Summary Of Torwood Blue Pool So Far'
-tags = ['Torwood']
 [params]
   author = 'Admin'
 +++

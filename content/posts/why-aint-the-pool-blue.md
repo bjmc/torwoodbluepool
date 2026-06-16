@@ -2,7 +2,6 @@
 date = 2011-03-20T00:00:00+00:00
 draft = false
 title = 'Why Aint The Pool Blue?'
-tags = ['Torwood']
 [params]
   author = 'Admin'
 +++

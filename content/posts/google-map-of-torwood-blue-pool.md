@@ -2,7 +2,6 @@
 date = 2009-10-13T00:00:00+00:00
 draft = false
 title = 'Google Map Of Torwood Blue Pool'
-tags = ['Torwood']
 [params]
   author = 'Nigel Turnbull'
 +++

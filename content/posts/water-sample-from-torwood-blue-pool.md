@@ -2,7 +2,6 @@
 date = 2009-08-24T00:00:00+00:00
 draft = false
 title = 'Water Sample From Torwood Blue Pool'
-tags = ['Torwood']
 [params]
   author = 'Nigel Turnbull'
 +++

@@ -8,6 +8,10 @@ theme = 'torwood'
     [markup.goldmark.renderer]
       unsafe = true
 
+[taxonomies]
+  tag = ""
+  category = ""
+
 [params]
   description = 'Investigation of a round brick lined Blue Water Pool at Torwood near Dunipace and Larbert'
   copyright = '2012'

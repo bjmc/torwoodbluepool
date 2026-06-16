@@ -2,7 +2,6 @@
 date = 2009-12-01T00:00:00+00:00
 draft = false
 title = 'Brick Arch And 2nd Pipe Found'
-tags = ['Torwood']
 [params]
   author = 'Nigel Turnbull'
 +++

@@ -2,7 +2,6 @@
 date = 2010-01-06T00:00:00+00:00
 draft = false
 title = 'Water Tank Theory Abandoned'
-tags = ['Torwood']
 [params]
   author = 'Nigel Turnbull'
 +++

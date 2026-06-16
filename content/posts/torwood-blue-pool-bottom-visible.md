@@ -2,7 +2,6 @@
 date = 2009-08-31T00:00:00+00:00
 draft = false
 title = 'Torwood Blue Pool Bottom Visible'
-tags = ['Torwood']
 [params]
   author = 'Nigel Turnbull'
 +++

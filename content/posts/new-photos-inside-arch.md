@@ -2,7 +2,6 @@
 date = 2011-06-25T00:00:00+00:00
 draft = false
 title = 'New Photos Inside Arch Still Inconclusive'
-tags = ['Torwood']
 [params]
   author = 'Admin'
 +++
