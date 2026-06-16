@@ -32,6 +32,8 @@ The Arch is just an opening in the circular wall containing the pool. Behind the
 arch on the left hand side can be seen a plain brick vertical wall that appears
 to be higher than the arch. My Airshaft Theory may be looking a bit shaky.
 
+![Arch size diagram](/img/arch_sizes.jpg)
+
 As time permits, my next task will be to clear the weed inside the arch, with
 special attention to the vertical space just behind and above the arch. When the
 water clears (probably a week) I will try for some more informative photos.

@@ -30,7 +30,11 @@ An opening this size would allow a very large flow of water. Could it be for a f
 Thank goodness someone can confirm my memory of the arched brick opening. I remember it as being about 20 inches (50 cm) high and have done an illustration of the general shape. I too remember that it was located around the bottom quarter of the total depth but clear of the bottom.
 [https://web.archive.org/web/20150724184107/https://www.google.co.uk/maps/preview#!q=Torwood&data=!1m4!1m3!1d639!2d-3.8797693!3d56.0344761!2m1!1e3!4m10!1m9!4m8!1m3!1d48148!2d-3.7990217!3d56.0048829!3m2!1i1232!2i1036!4f13.1&fid=7](GoogleMap satellite view of the Blue Pool)
 The pool is not visible from the nearby path. If you know about it then you either came across it by chance or someone told you where it was. Most locals I have spoken to have never heard of the blue pool.
-The pool seems to have vanished under some trees and scrub for a bit. Some people report having gone back years later and not being able to find it. Google’s satellite photographs from a few years ago only showed a slight bump in the tree line but the latest photos show the pool. The trees look like they were cut down in the last ten years or so.
+
+![Satellite view of the Torwood area](/img/satellitephoto.jpg)
+
+The pool seems to have vanished under some trees and scrub for a bit. Some people report having gone back years later and not being able to find it. Google's satellite photographs from a few years ago only showed a slight bump in the tree line but the latest photos show the pool. The trees look like they were cut down in the last ten years or so.
+
 ![June 2009 the water appears black but a sample is perfectly clear visibility is about 2 metres — a lot of algae type growth in and on the water note the level is lower than the other photographs](/img/algaepool.jpg)
 
 June 2009 the water appears black but a sample is perfectly clear visibility is about 2 metres — a lot of algae type growth in and on the water note the level is lower than the other photographs
@@ -66,6 +70,10 @@ The pool is constructed of a circular brick wall that is three bricks wide. The 
 ![Same square fitting as modern stop cocks](/img/stopcockfitting.jpg)
 
 Same square fitting as modern stop cocks
+
+![A single brick from the pool wall](/img/brick.jpg)
+
+![Detail of the brick bond](/img/englishbond.jpg)
 
 The bricks seem to be handmade and have no company markings of any brickworks.
 I find the way the brickwork finishes flush with the surrounding ground level, with no coping or finishing, a bit unusual and I suspect there was originally a covered structure above the pool to protect it from the elements.

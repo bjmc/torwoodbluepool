@@ -5,10 +5,10 @@ title = 'Brick Arch And 2nd Pipe Found'
 [params]
   author = 'Nigel Turnbull'
 +++
+
 ![Camera at an awkward angle to avoid surface reflections of the sky](/img/arch.jpg)
 
 Camera at an awkward angle to avoid surface reflections of the sky
-
 
 It’s almost two months since I visited the Blue Pool and cleared some hairy weed from the brickwork and managed to photograph a six inch pipe just as the sun was setting and the deeper water was still cloudy.
 
@@ -25,7 +25,6 @@ Another find was a heavy plank that had been driven down vertically into the bot
 
 6 Inch Pipes
 
-
 We have two pipes and a Brick Arch all on the same side. Inlet and outlet on the same side ? — I am not too comfortable with that — and no opening (so far) on the man-hole side. Most of the brickwork is still weed covered. When I clean that off, I should have a good view of all openings above the bottom-debris.
 It’s unlikely that I will be doing much during the cold short days of the winter months other than have a look now and then.
 
@@ -34,6 +33,6 @@ I spent a frustrating day at Callendar House Reference Library yesterday, trying
 I have put out email ‘feelers’ to Scottish Water, the Forestry Commission and Carron Company who owned Torwood for a while. I will pray for a result there rather than go back to reading the minutes.
 It’s worth noting that only the top of a semi circular arch is visible at present. No sign of the vertical parallel sides and level bottom that I remember — wee bit of dredging required there.
 If the arch keeps going round to form a circle then we have a round brick pipe and not what I remember — except that somewhere inside me there is a memory of a small round brick opening that I have not mentioned because I really think I am inventing it. It certainly was nowhere near the diameter of this (very large) Brick Arch.
-Thanks again to Caroline Kerr from Aberdeen who took a couple of samples home for testing on 6 October 2009. The results are published on [https://web.archive.org/web/20150724205435/http://torwoodbluepool.co.uk/2009/10/06/torwood-blue-pool-water-analysis/](Torwood Blue Pool Water Analysis).
+Thanks again to Caroline Kerr from Aberdeen who took a couple of samples home for testing on 6 October 2009. The results are published on [https://www.torwoodbluepool.co.uk/posts/torwood-blue-pool-water-analysis/](Torwood Blue Pool Water Analysis).
 
 We did not get a Laboratory pH result but Caroline has just Litmus Tested the duplicate sample and the pH is 6.0

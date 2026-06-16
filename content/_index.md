@@ -21,7 +21,7 @@ The **Torwood Blue Pool** is a round brick lined pool which in a cleared strip 
 
 **What we know so far** 
 
-![Torwood Blue Pool near Dunipace](/img/landusage1930-150x150.jpg "Torwood Blue Pool near Dunipace")
+![Torwood Blue Pool near Dunipace](/img/landusage1930.jpg "Torwood Blue Pool near Dunipace")
 
 Land Utilisation Map
 
@@ -32,7 +32,7 @@ A lifetime later I had forgotten the exact location of the blue pool but redisco
 
 The blue colour, it seems, is not that big a mystery. I wrongly thought that water got its blue colour from reflecting the blue sky but it seems that clear deep water refracts light in such a way that it produces its own blue colour.
 
-![Torwood Pool looking blue](/img/nigel15april2007-300x158.jpg)
+![Torwood Pool looking blue](/img/nigel15april2007.jpg)
 
 Torwood Pool looking blue
 
@@ -44,7 +44,7 @@ If the pool was being fed by an external source of water, I would rather expect 
 Is it simply being topped up by rainwater and evaporating during dry spells? Would this make it a ‘stagnant pond’?
 If so why is the water so clear and odourless? is the algae and plant life keeping the water clean?
 
-![Torwood Blue Pool looking West-ish](/img/1983dog-300x191.jpg "Torwood Blue Pool looking West-ish")
+![Torwood Blue Pool looking West-ish](/img/1983dog.jpg "Torwood Blue Pool looking West-ish")
 
 Looking West-ish
 
@@ -60,6 +60,34 @@ Looking North-ish
 
 > **Caroline Kerr from Aberdeen, Scotland.**
 > I grew up in Dunipace and visited the blue pool quite often while out walking. I always wondered what it was for. My father said it might be an old airshaft for a mine. I have written in my photo album that the pool is very blue.
+
+---
+
+![Satellite view of the Torwood area](/img/satellitephoto.jpg)
+
+The pool is not visible from the nearby path. If you know about it then you either came across it by chance or someone told you where it was. Most locals I have spoken to have never heard of the blue pool.
+
+---
+
+![Hand-made brick](/img/brick.jpg)
+
+The pool is constructed of a circular brick wall that is three bricks wide. The brick wall is surrounded by a layer of blue clay used as waterproofing. The bricks seem to be handmade and have no company markings.
+
+![English garden wall bond](/img/englishbond.jpg)
+
+Detail of the brick bond.
+
+![Green slime on the brickwork](/img/greenslime.jpg)
+
+The internal brickwork was covered with hairy slimy algae but there were surprising patches of brickwork that were clean.
+
+![Debris at the arch opening](/img/debris.jpg)
+
+Bottom debris at arch opening. The foreshortening effect of looking through water makes the pool look shallow.
+
+![Arch detail showing side wall](/img/archdetail.jpg)
+
+Detail to the right of the arch with vertical side clearly visible.
 
 ---
 

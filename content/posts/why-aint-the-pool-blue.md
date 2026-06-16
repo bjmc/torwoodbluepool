@@ -19,6 +19,10 @@ Water absorbs and selectively filters white light which is made up of all the
 colours in the rainbow. Long wave Red Light is absorbed much more than short wave
 Blue.
 
+![Light refraction in water](/img/light-1.jpg)
+
+![Light rays](/img/light-2.jpg)
+
 The further light travels through water, the more blue it becomes. Travel down
 into the deepest ocean and eventually all light will be absorbed, leaving total
 blackness.
@@ -28,6 +32,10 @@ coloured brickwork reflected a lot of light back up to the viewer's eye. The Poo
 metres deep so the light travels 10 metres through the crystal clear water and
 comes back with a genuine blue colour — not milky but crystal clear like a blue
 diamond.
+
+![Weed and algae on the pool wall](/img/light-3.jpg)
+
+![Green slime on brickwork](/img/greenslime.jpg)
 
 Today the bottom of the Pool (and a fair way up the sides) is covered in very
 dark silt and weed. This dark surface absorbs ALL light indiscriminately and only

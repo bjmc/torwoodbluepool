@@ -5,11 +5,11 @@ title = 'Torwood Blue Pool Water Analysis'
 [params]
   author = 'Nigel Turnbull'
 +++
+
 My last visit to the pool was 20 September 2009. The water was almost as clear as my previous visit on 31 August but there was no sign of the irregular round blue circle in the centre of the bottom — everything was the same kaki colour.
 ![The image is slightly confused with some reflections of the trees overhead mixing with the hairy slime.](/img/poolbottomnorth.jpg)
 
 The image is slightly confused with some reflections of the trees overhead mixing with the hairy slime.
-
 
 The polarising filter did not produce the clear photo I had hoped for so I did some gardening and clearing to improve access then I flattened a path to the manhole
 I started clearing some debris from the manhole. After about twenty plastic bags, heavy with trapped water and some full of empty plastic bags for Forestry Commission Fertiliser, I gave up for the day — it will take a grappling hook and rope to get deeper.
@@ -22,11 +22,12 @@ ELEMENTTORWOOD BLUE POOLABERDEEN TAP WATERAlAluminium1.430.02BBoron<0.2<0.2CaCal
 Duplicate sample tested 1 Dec 2009 — pH 6.0
 
 The results are reassuringly unspectacular.
-![Pipe appears to be glazed ceramic — difficult to tell from the photo](*[Image: pipe — not available in archives]*)
+![Pipe appears to be glazed ceramic — difficult to tell from the photo](_[Image: pipe — not available in archives]_)
 
 Pipe appears to be glazed ceramic
 — difficult to tell from the photo
 
+![Hairy slime on the internal brickwork](/img/greenslime.jpg)
 
 I started scrubbing some of the hairy slime from the internal brickwork of the Blue Pool in the hope of finding the brick arch. The water had only partly cleared with half an hour to sunset when I noticed a pipe about six inches in diameter at about two feet below the surface. Not likely to be an overflow at that depth but a definite candidate for an inlet pipe.
 The water in the pool would not be clear before darkness fell so that was it for the day. I intend cleaning all the hairy slime from the internal brickwork and photographing from an underwater camera housing. I suspect the brick arch will be the outlet and will line up with the manhole but that’s just me thinking aloud.
@@ -34,7 +35,6 @@ Some interesting figures: A line drawn from the six inch pipe, through the centr
 ![People are starting to refer to me as The Blue Pool Guy](/img/brickworkpipe.jpg)
 
 People are starting to refer to me as The Blue Pool Guy
-
 
 I have found more people who know of the pool and some who have swum in it but nobody knows its purpose.
 
@@ -49,12 +49,12 @@ It is not clear whether the beehive roof started at ground level or if there was
 
 Roofing Slates
 
-
 Jay contacted me first thing the following morning after a flash of inspiration during the night. He owns a book and is currently trying to find it. He recalls reading that when the RSNH Hospital was built they sourced their water supply from Torwood.
 I immediately went to my research drawing/map of the area (not yet on this page) and extended my compass bearing line of 123 degrees magnetic and near wet me pants with excitement — the line went straight through the RSNH Hospital. Unfortunately the RSNH was built as two distinct units.
 
 This one was called the RSNH (Colony) and was not opened until the mid 1920’s. The other (the first one) RSNH (Institution) is about half a mile north of the Colony.
 Hopefully Jay will find the book which may furnish us with more detailed information but in the mean time I found another book on the history of the RSNH, written in 2002, at Callendar House Library:
+
 > Page 54
 
 Water and Drainage
@@ -69,7 +69,6 @@ The RSNH water supply theory is still being assessed.
 
 Half Round Cast Iron Gutter
 
-
 Today I spoke to Brian Brown who has lived all his life in Torwood. Brian was born in 1947 and remembers his Grandfather (who lived in Torwood all his life) telling him that the pool was once the water supply for Carbrook House (demolished around 1946) on the north side of the Glen Road, Torwood.
 Carbrook House and the RSNH are not too far apart and a common water supply for that small area would not be unreasonable as the cost could be split between interested parties. This possibility is being considered.
 I now come to something that I have been holding on to but have made no progress with. About three months ago, just after one of my party discovered the manhole (much to Heather’s delight) he went a little further on into the trees and started finding stuff faster than I could photograph.
@@ -80,7 +79,7 @@ The first piece of curved metal is flat-bar about 2 inch by 3/8 inch and is bent
 
 Cast Iron Moulding and Two Inch Flat Bar
 
-
+![OG guttering curved to match the pool](/img/og.jpg)
 After considering the possibilities, my assistant investigator, Andy McLagan, turned the moulding up the other way and I had to agree it looked very much like ‘O-G’ Guttering for rainwater.
 
 If we have guttering then we have a roof. If we have a roof, we have walls. Was it a slate roof ? — there were a few slates in the area but maybe they were for another nearby construction. None of the old Ordnance Survey maps show any construction in the area of the pool — they don’t even show the pool, though they record tiny two foot wells all over the place, they do not mention our 20 foot diameter pool.

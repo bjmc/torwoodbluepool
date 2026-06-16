@@ -8,6 +8,6 @@ weight = 20
   author = 'Admin'
 +++
 
-### **_It is with great sadness I have to announce the death of Nigel Turnbull, the founder of [ntgraphics.co.uk](https://web.archive.org/web/20150725200036/http://ntgraphics.co.uk/), where the content of this&nbsp;website originated._**
+### **_It is with great sadness I have to announce the death of Nigel Turnbull, the founder of [ntgraphics.co.uk](http://ntgraphics.co.uk/), where the content of this&nbsp;website originated._**
 
 ### **_Nigel died of cancer at Strathcarron Hospice on Monday the 21st of May 2012 at the age of 61._**

@@ -40,6 +40,10 @@ could be the end of the cattle trough theory.
 
 Twin pipes above the Arch
 
+![Single clay pipe](/img/singlepipe.jpg)
+
+![Pipe on right side](/img/rightpipe.jpg)
+
 I am assuming these pipes are ceramic/clay but I must remember to take a magnet
 up some day to check if they are iron.
 
