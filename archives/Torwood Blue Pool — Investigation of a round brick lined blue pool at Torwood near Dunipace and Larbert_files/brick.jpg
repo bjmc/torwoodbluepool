@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBALquDFETXRn0Hr05fUP7EJT77xYnPmRbpMy4vk8KYiHnkNpednjOANJcaXDXcKQJN0nXKZJL7TciJD8AoHXK158CAwEAAQ==_IbL9d6Zy6zZwxNXYhzrNlf/qrL+yrPcRB0Zb3Nm/zTaA3Qq4MuX3hpurLVOeUaf6XkUVAmWSzuPh+1P2nitXTA==" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=2N_sDSC0" charset="utf-8"></script>
-<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=o9P2E1FK" charset="utf-8"></script>
 <script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
 <script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
 <script type="text/javascript">
@@ -128,7 +128,7 @@ ls(new XMLHttpRequest(), scriptPath, '2149|||6297a34867258eyJvd25lcilsfa7c2d39f9
 </html>
 <!--
      FILE ARCHIVED ON 17:35:04 Jun 01, 2022 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 20:21:42 Mar 17, 2026.
+     INTERNET ARCHIVE ON 20:16:15 Jun 16, 2026.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -136,13 +136,8 @@ ls(new XMLHttpRequest(), scriptPath, '2149|||6297a34867258eyJvd25lcilsfa7c2d39f9
 -->
 <!--
 playback timings (ms):
-  captures_list: 1.07
-  exclusion.robots: 0.022
-  exclusion.robots.policy: 0.01
-  esindex: 0.016
-  cdx.remote: 28.23
-  LoadShardBlock: 119.447 (3)
-  PetaboxLoader3.datanode: 107.219 (4)
-  load_resource: 110.279
-  PetaboxLoader3.resolve: 95.817
+  capture_cache.get: 0.839
+  load_resource: 115.73
+  PetaboxLoader3.resolve: 82.299
+  PetaboxLoader3.datanode: 14.717
 -->

@@ -1,4 +1,4 @@
-var _____WB$wombat$assign$function_____=function(name){return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name))||self[name];};if(!self.__WB_pmw){self.__WB_pmw=function(obj){this.__WB_source=obj;return this;}}{
+var _____WB$wombat$assign$function_____=function(name){return (globalThis._wb_wombat && globalThis._wb_wombat.local_init && globalThis._wb_wombat.local_init(name))||globalThis[name];};if(!globalThis.__WB_pmw){globalThis.__WB_pmw=function(obj){this.__WB_source=obj;return this;}}{
 let window = _____WB$wombat$assign$function_____("window");
 let self = _____WB$wombat$assign$function_____("self");
 let document = _____WB$wombat$assign$function_____("document");
@@ -6,7 +6,7 @@ let location = _____WB$wombat$assign$function_____("location");
 let top = _____WB$wombat$assign$function_____("top");
 let parent = _____WB$wombat$assign$function_____("parent");
 let frames = _____WB$wombat$assign$function_____("frames");
-let opens = _____WB$wombat$assign$function_____("opens");
+let opener = _____WB$wombat$assign$function_____("opener");
 (function(){'use strict';function aa(a){throw a;}
 var h=void 0,i=null;function ba(){return function(a){return a}}
 function ca(){return function(){}}
@@ -2683,7 +2683,7 @@ __gjsload_maps2__('rst', 'GAddMessages({});\'use strict\';fi.prototype.Yt=Z(193,
 
 /*
      FILE ARCHIVED ON 16:22:33 Jun 17, 2012 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 20:21:49 Mar 17, 2026.
+     INTERNET ARCHIVE ON 20:16:57 Jun 16, 2026.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -2691,14 +2691,14 @@ __gjsload_maps2__('rst', 'GAddMessages({});\'use strict\';fi.prototype.Yt=Z(193,
 */
 /*
 playback timings (ms):
-  capture_cache.get: 0.483
-  captures_list: 5.974
-  exclusion.robots: 0.03
-  exclusion.robots.policy: 0.017
-  esindex: 0.015
-  cdx.remote: 70.572
-  LoadShardBlock: 93.141 (3)
-  PetaboxLoader3.datanode: 138.783 (5)
-  load_resource: 161.834 (2)
-  PetaboxLoader3.resolve: 103.347 (2)
+  capture_cache.get: 23.899
+  captures_list: 11.405
+  exclusion.robots: 10.066
+  exclusion.robots.policy: 10.05
+  esindex: 0.011
+  cdx.remote: 162.408
+  LoadShardBlock: 378.609 (3)
+  PetaboxLoader3.datanode: 455.602 (5)
+  load_resource: 624.897 (2)
+  PetaboxLoader3.resolve: 414.127 (2)
 */

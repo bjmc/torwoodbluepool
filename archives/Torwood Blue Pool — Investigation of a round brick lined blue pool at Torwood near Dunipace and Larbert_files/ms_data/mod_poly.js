@@ -31,25 +31,25 @@
       }
     </script>
     <!-- is_embedded: False; context:  -->
-    <!-- navbar https://archive.org/web/navbar.php 0.09617s -->
+    <!-- navbar https://archive.org/web/navbar.php 0.23674s -->
     <!-- navbar script -->
-    <script src="//archive.org/includes/athena.js?v=eb891f68" type="text/javascript"></script>
-    <script src="//archive.org/includes/apollo.js?v=eb891f68" type="text/javascript"></script>
-    <script src="//archive.org/components/npm/lit/polyfill-support.js?v=eb891f68" type="text/javascript"></script>
-    <script src="//archive.org/components/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js?v=eb891f68" type="text/javascript"></script>
-    <script src="//archive.org/includes/build/js/ia-topnav.min.js?v=eb891f68" type="text/javascript"></script>
-    <script src="//archive.org/includes/build/js/archive.min.js?v=eb891f68" type="text/javascript"></script>
+    <script src="//archive.org/includes/athena.js?v=c470ff0b" type="text/javascript"></script>
+    <script src="//archive.org/includes/apollo.js?v=c470ff0b" type="text/javascript"></script>
+    <script src="//archive.org/components/npm/lit/polyfill-support.js?v=c470ff0b" type="text/javascript"></script>
+    <script src="//archive.org/components/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js?v=c470ff0b" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/js/ia-topnav.min.js?v=c470ff0b" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/js/archive.min.js?v=c470ff0b" type="text/javascript"></script>
     <!-- navbar styles -->
-    <link href="//archive.org/includes/build/css/archive.min.css?v=eb891f68" rel="stylesheet" type="text/css"/>
+    <link href="//archive.org/includes/build/css/archive.min.css?v=c470ff0b" rel="stylesheet" type="text/css"/>
     <!-- navbar meta -->
     <meta property="mediatype" content="">
     <meta property="primary_collection" content="">
     <!-- navbar end -->
-    <script type="text/javascript">if('archive_analytics' in window){var v=archive_analytics.values;v.path='/web';v.service='wb';v.server_name='wwwb-app241.us.archive.org';v.server_ms=268;archive_analytics.send_pageview_on_load()}</script>
+    <script type="text/javascript">if('archive_analytics' in window){var v=archive_analytics.values;v.path='/web';v.service='wb';v.server_name='wwwb-app249.us.archive.org';v.server_ms=1491;archive_analytics.send_pageview_on_load()}</script>
     <link href="https://web-static.archive.org/_static/images/archive.ico" rel="shortcut icon">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/styles.css?v=HdpcXpRm" />
+    <link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/styles.css?v=Zb1uSJFF" />
     <script type="text/javascript" src="https://web-static.archive.org/_static/js/ui.js?v=7LYlZ-C2" charset="utf-8"></script>
     <base target="_top">
 <link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/web.css">
@@ -63,9 +63,9 @@ if (window!=window.top) {
 
                     <div class="ia-banners">
               <div
-        class="ia-banner hidden post-appeal-20240905"
-        data-campaign="post-appeal-20240905">
-        <p><a href="https://change.org/LetReadersRead" rel="ugc nofollow">Ask the publishers</a> to restore access to 500,000+ books.</p>
+        class="ia-banner hidden save-wayback-20260601"
+        data-campaign="save-wayback-20260601">
+        <p>Keep the news in the Wayback Machine. <a href="https://www.savethearchive.com/NewsLeaders" rel="ugc nofollow">Sign Fight for the Future's letter</a>.</p>
         <form class="banner-close" action="" method="get" data-action="ia-banner-close">
           <fieldset>
             <button aria-label="Close Banner" type="submit"></button>
@@ -73,7 +73,64 @@ if (window!=window.top) {
         </form>
       </div>
           </div>
-                    <div id="topnav">
+                <link href="//archive.org/components/donation-banner/banner.css?v=c470ff0b" rel="stylesheet" type="text/css"/>
+    <link href="//archive.org/components/donation-banner/banner-template-styles/chevron.css?v=c470ff0b" rel="stylesheet" type="text/css"/>
+      <header
+      id="donate_banner"
+      class="js-donate-banner formdesign-psa"
+      itemscope
+      itemtype="http://schema.org/WPAdBlock"
+      data-donationSourceData="ctx=wb;uid=0c5903a66c1122ebbaf7c058d92f36c6"
+      data-exp="20260601JuneDeploy2"
+      data-variant="WBjuneGFMPvanishPSA"
+      data-platform="wb"
+      data-baseUrl="https://archive.org"
+      data-platform="wb"
+      data-bannerTemplate="psa"
+      data-bannerBackground="default"
+      data-snowfall="off"
+      data-selectedTextColor="#000000"
+      data-selectedFillColor="#F9BF3B"
+      data-paymentOptionFillColor=""
+      data-paymentOptionTextColor=""
+      data-formBgColor="#ffffff"
+      data-formTextColor="#000000"
+      data-donatePageSelectedTextColor="#000000"
+      data-donatePageSelectedFillColor="#F9BF3B"
+      data-psaBannerDestinationUrl="https://donate.archive.org/campaign/788361/donate?c_src=gofundmeprobanner-01062026WBvanishPSA"
+      data-variantDollarAmounts='[10, 15, 50]'                        data-defaultSelectedAmount='15'            data-debugMode="false"
+      style="--donationBannerChevronBG: #F9BF3B;  "
+      >
+                  <div class="ia-banner visible psa">
+            <div class="appeal-text" style="--donationBannerAppealTextColor: #000000;">
+              <div class="desktop-body-content"><b>Please Don't Scroll Past This</b> Can you chip in? The Internet Archive, which runs this project, partners with institutions across the globe to preserve cultural heritage that would otherwise be lost forever.<b> We need your support in continuing this vital work.</b></div>
+              <div class="mobile-body-content"><b>Please Don't Scroll Past This</b> Can you chip in? The Internet Archive, which runs this project, partners with institutions across the globe to preserve cultural heritage that would otherwise be lost forever.<b> We need your support in continuing this vital work.</b></div>
+            </div>
+            <form id="donate-close-button" class="banner-close" aria-label="Close banner">
+              <span class="sr-only">Close banner</span>
+              <fieldset>
+                <button aria-label="Close Banner" type="submit"></button>
+              </fieldset>
+            </form>
+            <div style="display: none;">      <div class="donation-form-container">
+        <donation-form-edit-donation
+          amountOptions='[10, 15, 50]'          defaultSelectedAmount='15'          amountTitleDisplayMode="slot"
+          customAmountMode="hide"
+          customFeesCheckboxMode="hide"
+          frequencySelectionMode="hide"
+          stepNumberMode="hidenumbers"
+          class="minimal-widget focus-on-child-only"
+          style="--paymentButtonSelectedFontColor: #000000;--paymentButtonSelectedColor: #F9BF3B;--formSectionTextColor: #000000;"
+        >
+          <div slot="edit-donation-amount-title">
+            <p style="font-size: 1.8rem; line-height: calc(1.2rem * 2); margin: 0;"><b>Can You Chip In?</b> (USD)</p>
+          </div>
+        </donation-form-edit-donation>
+      </div>
+    </div>
+          </div>
+              </header>
+              <div id="topnav">
               <input class="js_nav_tweaks" type="hidden" value='[]'/>
     <!-- Shady DOM styles for icon-hamburger -->
 <style scope="icon-hamburger-1">
@@ -170,158 +227,6 @@ if (window!=window.top) {
     .login-button-1 span.login-button {
       display: inline;
       vertical-align: middle;
-    }
-
-  }
-</style><!-- Shady DOM styles for nav-search -->
-<style scope="nav-search-1">
-  .nav-search-1 input.nav-search[type="text"] {
-    color: #222;
-  }
-
-  .nav-search-1 input.nav-search:focus {
-    outline: none;
-  }
-
-  .nav-search-1 button.nav-search {
-    background: none;
-    color: inherit;
-    border: none;
-    font: inherit;
-    cursor: pointer;
-  }
-
-  .nav-search-1 button.nav-search:focus {
-    outline: none;
-  }
-
-  .nav-search-1 .search.nav-search {
-    padding-top: 0;
-    margin-right: 0.5rem;
-  }
-
-  .nav-search-1 .search.nav-search svg.nav-search {
-    position: relative;
-    fill: ;
-  }
-
-  .nav-search-1 .search-activated.nav-search {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    position: absolute;
-    top: 0;
-    right: 4rem;
-    bottom: 0;
-    left: 4rem;
-    z-index: 3;
-    padding: 0.5rem 0.2rem;
-    border-radius: 1rem 1rem 0 0;
-    background: #333;
-  }
-
-  .nav-search-1 .search-inactive.nav-search {
-    display: none;
-  }
-
-  .nav-search-1 .search-activated.nav-search .highlight.nav-search,
-  .nav-search-1 .search-activated.nav-search .search.nav-search {
-    background: #fff;
-    border-radius: 0.5rem;
-  }
-
-  .nav-search-1 .search-activated.nav-search .highlight.nav-search {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    width: 100%;
-    margin: 0 0.5rem;
-  }
-
-  .nav-search-1 .search-activated.nav-search .search.nav-search {
-    height: 100%;
-    padding: 0;
-    margin-right: 0;
-    -ms-flex-item-align: center;
-    -ms-grid-row-align: center;
-    align-self: center;
-  }
-
-  .nav-search-1 .search-activated.nav-search .search.nav-search svg.nav-search {
-    height: 3rem;
-    width: 3rem;
-  }
-
-  .nav-search-1 .search-activated.nav-search .search-field.nav-search {
-    width: 100%;
-    height: 100%;
-    box-sizing: border-box;
-    padding-left: 1rem;
-    border-radius: 0.5rem;
-    border: none;
-    font-size: 1.6rem;
-    text-align: center;
-  }
-
-  .nav-search-1 .search-activated.nav-search .search-field.nav-search:focus {
-    outline: none;
-  }
-
-  @keyframes fade-in-nav-search-1 {
-    0% {
-      opacity: 0;
-    }
-
-    100% {
-      opacity: 1;
-    }
-
-  }
-
-  .nav-search-1 .fade-in.nav-search {
-    animation: fade-in-nav-search-1 0.2s forwards;
-  }
-
-  @media (min-width: 890px) {
-    .nav-search-1 .search.nav-search svg.nav-search {
-      display: inline;
-      width: 2.8rem;
-      height: 2.8rem;
-      vertical-align: -14px;
-    }
-
-    .nav-search-1 .search.nav-search path.nav-search {
-      fill: #333;
-    }
-
-    .nav-search-1 .search-inactive.nav-search,
-    .nav-search-1 .search-activated.nav-search {
-      display: block;
-      position: static;
-      padding: 1.1rem 0.2rem;
-      background: transparent;
-    }
-
-    .nav-search-1 .search-activated.nav-search .highlight.nav-search {
-      width: 13rem;
-      height: 2.8rem;
-      -webkit-box-orient: horizontal;
-      -webkit-box-direction: reverse;
-      -ms-flex-direction: row-reverse;
-      flex-direction: row-reverse;
-    }
-
-    .nav-search-1 .search-activated.nav-search .search-field.nav-search {
-      width: calc(100% - 28px);
-      height: 100%;
-      padding-left: 0;
-      font-size: 1.4rem;
-      text-align: left;
-    }
-
-    .nav-search-1 .search-activated.nav-search .search.nav-search svg.nav-search {
-      width: 2.8rem;
-      height: 2.8rem;
     }
 
   }
@@ -567,14 +472,9 @@ if (window!=window.top) {
     border-bottom: 1px solid #333;
   }
 
-  .primary-nav-1 nav.hide-search.primary-nav {
-    grid-template-areas: 'hamburger empty heart user';
-    -ms-grid-columns: 4rem minmax(1rem, 100%) 4rem 4rem;
-    grid-template-columns: 4rem auto 4rem 4rem;
-  }
-
   .primary-nav-1 .right-side-section.primary-nav {
     display: flex;
+    align-items: center;
     margin-left: auto;
     user-select: none;
   }
@@ -679,9 +579,25 @@ if (window!=window.top) {
     fill: #999;
   }
 
-  .primary-nav-1 .search-activated.primary-nav {
-    position: relative;
-    z-index: 3;
+  .primary-nav-1 ia-dropdown-search-bar.primary-nav {
+    display: none;
+    font-size: 1.6rem;
+    --dropdownFontSize: 1.4rem;
+    --dropdownItemButtonPadding: 0 10px;
+  }
+
+  @media (max-width: 889px) {
+    .primary-nav-1 ia-dropdown-search-bar.search-open.primary-nav {
+      --search-bar-width: 100%;
+      display: flex;
+      align-items: center;
+      position: absolute;
+      top: 0;
+      right: 4rem;
+      bottom: 0;
+      left: 4rem;
+      z-index: 3;
+    }
   }
 
   .primary-nav-1 .upload.primary-nav {
@@ -852,9 +768,10 @@ if (window!=window.top) {
       fill: #fff;
     }
 
-    .primary-nav-1 nav-search.primary-nav {
-      float: right;
-      margin-left: 1rem;
+    .primary-nav-1 ia-dropdown-search-bar.primary-nav {
+      display: block;
+      position: static;
+      margin-right: 0.5rem;
     }
 
   }
@@ -874,115 +791,7 @@ if (window!=window.top) {
     }
 
   }
-</style><!-- Shady DOM styles for user-menu --><!-- Shady DOM styles for search-menu -->
-<style scope="search-menu-1">
-  .search-menu-1 .menu-wrapper.search-menu {
-    position: relative;
-  }
-
-  .search-menu-1 button.search-menu:focus,
-  .search-menu-1 input.search-menu:focus {
-    outline-color: #4b64ff;
-    outline-width: 0.16rem;
-    outline-style: auto;
-    outline-offset: 2px !important;
-  }
-
-  .search-menu-1 .search-menu-inner.search-menu {
-    position: absolute;
-    right: 0;
-    left: 0;
-    z-index: 4;
-    padding: 0 4.5rem;
-    font-size: 1.6rem;
-    background-color: #333;
-  }
-
-  .search-menu-1 .tx-slide.search-menu {
-    overflow: hidden;
-    transition-property: top;
-    transition-duration: 0.2s;
-    transition-timing-function: ease;
-  }
-
-  .search-menu-1 .initial.search-menu,
-  .search-menu-1 .closed.search-menu {
-    top: -1500px;
-  }
-
-  .search-menu-1 .closed.search-menu {
-    transition-duration: 0.2s;
-  }
-
-  .search-menu-1 label.search-menu,
-  .search-menu-1 a.search-menu {
-    padding: 1rem;
-    display: block;
-  }
-
-  .search-menu-1 .advanced-search.search-menu {
-    text-decoration: none;
-    color: #4b64ff;
-    line-height: normal;
-    padding: 0.5rem;
-    margin-top: 5px;
-  }
-
-  @media (min-width: 890px) {
-    .search-menu-1 .search-menu-inner.search-menu {
-      overflow: visible;
-      right: 2rem;
-      left: auto;
-      z-index: 5;
-      padding: 1rem 2rem;
-      transition: opacity 0.2s ease-in-out;
-      font-size: 1.4rem;
-      color: #333;
-      border-radius: 2px;
-      background: #fff;
-      box-shadow: 0 1px 2px 1px rgba(0, 0, 0, 0.15);
-    }
-
-    .search-menu-1 .search-menu-inner.search-menu:after {
-      position: absolute;
-      right: 7px;
-      top: -7px;
-      width: 12px;
-      height: 7px;
-      box-sizing: border-box;
-      color: #fff;
-      content: '';
-      border-bottom: 7px solid currentColor;
-      border-left: 6px solid transparent;
-      border-right: 6px solid transparent;
-    }
-
-    .search-menu-1 .initial.search-menu,
-    .search-menu-1 .closed.search-menu {
-      opacity: 0;
-      transition-duration: 0.2s;
-    }
-
-    .search-menu-1 .open.search-menu {
-      opacity: 1;
-    }
-
-    .search-menu-1 label.search-menu {
-      padding: 0;
-      font-weight: normal;
-      margin: 0;
-    }
-
-    .search-menu-1 label.search-menu+label.search-menu {
-      padding-top: 7px;
-    }
-
-    .search-menu-1 a.search-menu {
-      padding: 1rem 0 0 0;
-    }
-
-  }
-</style><!-- Shady DOM styles for ia-wayback-search --><!-- Shady DOM styles for wayback-search -->
+</style><!-- Shady DOM styles for user-menu --><!-- Shady DOM styles for ia-wayback-search --><!-- Shady DOM styles for wayback-search -->
 <style scope="wayback-search-1">
   .wayback-search-1 {
     font: normal 1.2rem/1.5 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -1792,12 +1601,6 @@ if (window!=window.top) {
     .signed-out-dropdown-1 .initial.signed-out-dropdown,
     .signed-out-dropdown-1 .closed.signed-out-dropdown,
     .signed-out-dropdown-1 .open.signed-out-dropdown {
-      right: 33.5rem;
-    }
-
-    .signed-out-dropdown-1 .search-hidden.initial.signed-out-dropdown,
-    .signed-out-dropdown-1 .search-hidden.closed.signed-out-dropdown,
-    .signed-out-dropdown-1 .search-hidden.open.signed-out-dropdown {
       right: 18.5rem;
     }
 
@@ -1808,12 +1611,6 @@ if (window!=window.top) {
     .signed-out-dropdown-1 .initial.signed-out-dropdown,
     .signed-out-dropdown-1 .closed.signed-out-dropdown,
     .signed-out-dropdown-1 .open.signed-out-dropdown {
-      right: 40rem;
-    }
-
-    .signed-out-dropdown-1 .search-hidden.initial.signed-out-dropdown,
-    .signed-out-dropdown-1 .search-hidden.closed.signed-out-dropdown,
-    .signed-out-dropdown-1 .search-hidden.open.signed-out-dropdown {
       right: 26rem;
     }
 
@@ -2183,6 +1980,25 @@ if (window!=window.top) {
             </a>
 
           <!--?lit$49386103$-->
+          <ia-dropdown-search-bar
+            class="style-scope primary-nav"
+            categories="[
+              {&quot;id&quot;:&quot;all&quot;,&quot;label&quot;:&quot;All&quot;},
+              {&quot;id&quot;:&quot;texts&quot;,&quot;label&quot;:&quot;Books/Docs&quot;},
+              {&quot;id&quot;:&quot;fulltext&quot;,&quot;label&quot;:&quot;Text Contents&quot;},
+              {&quot;id&quot;:&quot;radio&quot;,&quot;label&quot;:&quot;Radio&quot;},
+              {&quot;id&quot;:&quot;tv&quot;,&quot;label&quot;:&quot;TV&quot;},
+              {&quot;id&quot;:&quot;movies&quot;,&quot;label&quot;:&quot;Video&quot;},
+              {&quot;id&quot;:&quot;audio&quot;,&quot;label&quot;:&quot;Audio&quot;},
+              {&quot;id&quot;:&quot;software&quot;,&quot;label&quot;:&quot;Software&quot;},
+              {&quot;id&quot;:&quot;image&quot;,&quot;label&quot;:&quot;Images&quot;},
+              {&quot;id&quot;:&quot;etree&quot;,&quot;label&quot;:&quot;Live Music&quot;},
+              {&quot;id&quot;:&quot;collection&quot;,&quot;label&quot;:&quot;Collections&quot;},
+              {&quot;id&quot;:&quot;data&quot;,&quot;label&quot;:&quot;Data&quot;},
+              {&quot;id&quot;:&quot;web&quot;,&quot;label&quot;:&quot;Web Sites&quot;}
+            ]"
+          ></ia-dropdown-search-bar>
+          <!--?lit$49386103$-->
           <div class="user-info style-scope primary-nav">
             <!--?lit$49386103$-->
             <login-button class="style-scope primary-nav x-scope login-button-1"><!---->
@@ -2200,7 +2016,7 @@ if (window!=window.top) {
                     </svg>
                 </button>
                 <span class="style-scope login-button">
-                  <a class="style-scope login-button" href="https://archive.org/account/signup">Sign up</a>
+                  <a class="style-scope login-button" href="https://archive.org/signup">Sign up</a>
                   |
                   <a class="style-scope login-button" href="https://archive.org/account/login">Log in</a>
                 </span>
@@ -2235,30 +2051,6 @@ if (window!=window.top) {
               </svg>
 
           </button>
-          <nav-search class="style-scope primary-nav x-scope nav-search-1"><!---->
-            <div class="search-activated fade-in search-inactive style-scope nav-search">
-              <form id="nav-search" class="highlight style-scope nav-search" method="get" action="https://archive.org/search"
-                data-event-submit-tracking="TopNav|NavSearchSubmit">
-                <label for="query" class="sr-only">Search the Archive</label>
-                <input type="text" id="query" name="query" class="search-field style-scope nav-search" placeholder="Search" autocomplete="off"
-                  value="">
-                <!--?lit$49386103$-->
-                <button type="submit" class="search style-scope nav-search" tabindex="-1"
-                  data-event-click-tracking="TopNav|NavSearchClose">
-                  <!--?lit$49386103$-->
-                  <svg height="40" viewBox="0 0 40 40" width="40" xmlns="http://www.w3.org/2000/svg"
-                    aria-labelledby="searchTitleID searchDescID" class="style-scope nav-search">
-                    <title id="searchTitleID" class="style-scope nav-search">Search icon</title>
-                    <desc id="searchDescID" class="style-scope nav-search">An illustration of a magnifying glass.</desc>
-                    <path class="fill-color style-scope nav-search"
-                      d="m32.4526364 29.8875889-8.1719472-7.9751279c1.1046135-1.4876138 1.7652549-3.3102407 1.7652549-5.2846451 0-.101185-.0142895-.1981539-.030573-.2944743.0166158-.0976175.0309053-.196208.0309053-.2990145 0-4.9814145-4.152935-9.0343271-9.2572866-9.0343271-.0907218 0-.1781206.01394537-.2655193.02594487-.0880633-.0119995-.1747974-.02594487-.2655193-.02594487-5.1046839 0-9.25761889 4.0529126-9.25761889 9.0343271 0 .1011849.01395722.1981539.03057294.2947985-.01694804.0976176-.03090525.1958838-.03090525.2986903 0 4.9814145 4.1526027 9.0346514 9.2572866 9.0346514.0907218 0 .1777882-.0139454.2658516-.0262692.0873987.0123238.1741328.0262692.265187.0262692 1.7306942 0 3.3467399-.4747911 4.7338208-1.2852439l8.2882574 8.0886366c.3652137.3564177.843082.53414 1.3212826.53414.4782007 0 .9567336-.1780467 1.3212827-.53414.7294304-.7118622.7294304-1.8660845-.0003323-2.5782711zm-15.9526364-7.8875889c-.0832667-.0118703-.1652765-.0253024-.2513711-.0253024-2.8781993 0-5.2197212-2.3278242-5.2197212-5.1891862 0-.0974612-.013197-.1908615-.0289077-.2836371.0160249-.0940251.0292219-.1889874.0292219-.2880105 0-2.861362 2.3418361-5.1891861 5.2200354-5.1891861.0854662 0 .1677902-.0131198.2510569-.0246777.0826383.0115579.1649623.0246777.2510569.0246777 2.8781993 0 5.2197212 2.3278241 5.2197212 5.1891861 0 .0974612.0135112.1908616.0289077.2839496-.0157107.0940251-.0295361.1886749-.0295361.287698 0 2.861362-2.3415219 5.1891862-5.2197212 5.1891862-.0860946 0-.1684187.0134321-.2507427.0253024z"
-                      fill-rule="evenodd"></path>
-                    </svg>
-
-                </button>
-                </form>
-                </div>
-                </nav-search>
 
         </div>
       </nav>
@@ -2563,9 +2355,11 @@ if (window!=window.top) {
                         data-event-click-tracking="TopNav|BooksByLanguageTexts"><!--?lit$49386103$-->Books by
                         Language</a></li>
                     <!----><!---->
-                    <li class="style-scope media-subnav"><a class="style-scope media-subnav" href="https://archive.org/details/additional_collections"
-                        data-event-click-tracking="TopNav|AdditionalCollectionsTexts"><!--?lit$49386103$-->Additional
-                        Collections</a></li>
+                    <li class="style-scope media-subnav"><a class="style-scope media-subnav" href="https://archive.org/details/folkscanomy"
+                      data-event-click-tracking="TopNav|FolkscanomyTexts"><!--?lit$49386103$-->Folkscanomy</a></li>
+                    <!----><!---->
+                    <li class="style-scope media-subnav"><a class="style-scope media-subnav" href="https://archive.org/details/government-documents"
+                      data-event-click-tracking="TopNav|GovernmentDocumentsTexts"><!--?lit$49386103$-->Government Documents</a></li>
                     <!---->
                     </ul>
                     </div>
@@ -2833,7 +2627,7 @@ if (window!=window.top) {
         <ul class="style-scope signed-out-dropdown">
           <!--?lit$49386103$--><!---->
           <li class="style-scope signed-out-dropdown"><!--?lit$49386103$--><a class="style-scope signed-out-dropdown"
-              href="https://archive.org/account/signup" tabindex="-1" data-event-click-tracking="TopNav|NavAvatarMenu-Signup">
+              href="https://archive.org/signup" tabindex="-1" data-event-click-tracking="TopNav|NavAvatarMenu-Signup">
               <!--?lit$49386103$-->
               <!--?lit$49386103$-->Sign up for free
               <!--?lit$49386103$-->
@@ -2851,40 +2645,6 @@ if (window!=window.top) {
           </div>
           </signed-out-dropdown>
 
-  <search-menu class="style-scope ia-topnav x-scope search-menu-1" tabindex="-1"><!---->
-    <div class="menu-wrapper style-scope search-menu">
-      <div class="search-menu-inner tx-slide closed style-scope search-menu" aria-hidden="true">
-        <!--?lit$49386103$--><!---->
-        <label class="style-scope search-menu">
-          <input form="nav-search" type="radio" name="sin" class="style-scope search-menu" value="" checked="" tabindex="-1">
-          Search <!--?lit$49386103$-->metadata
-        </label>
-        <!----><!---->
-        <label class="style-scope search-menu">
-          <input form="nav-search" type="radio" name="sin" class="style-scope search-menu" value="TXT" tabindex="-1">
-          Search <!--?lit$49386103$-->text contents
-        </label>
-        <!----><!---->
-        <label class="style-scope search-menu">
-          <input form="nav-search" type="radio" name="sin" class="style-scope search-menu" value="TV" tabindex="-1">
-          Search <!--?lit$49386103$-->TV news captions
-        </label>
-        <!----><!---->
-        <label class="style-scope search-menu">
-          <input form="nav-search" type="radio" name="sin" class="style-scope search-menu" value="RADIO" tabindex="-1">
-          Search <!--?lit$49386103$-->radio transcripts
-        </label>
-        <!----><!---->
-        <label class="style-scope search-menu">
-          <input form="nav-search" type="radio" name="sin" class="style-scope search-menu" value="WEB" tabindex="-1">
-          Search <!--?lit$49386103$-->archived web sites
-        </label>
-        <!---->
-        <a class="advanced-search style-scope search-menu" href="https://archive.org/advancedsearch.php"
-          data-event-click-tracking="TopNav|NavAdvancedSearch" tabindex="-1">Advanced Search</a>
-        </div>
-        </div>
-        </search-menu>
         <desktop-subnav class="style-scope ia-topnav x-scope desktop-subnav-1"><!---->
           <ul class="style-scope desktop-subnav">
             <!--?lit$49386103$--><!---->
@@ -2966,18 +2726,18 @@ if (window!=window.top) {
       <div id="positionHome">
 	<div id="searchHome">
 	  <form name="form1" method="get" action="/web/submit">
-	    <input class="form-control" type="text" name="url" value="http://maps.gstatic.com/intl/en_uk/mapfiles/419c/maps2/mod_poly.js" size="40" onfocus="javascript:this.focus();this.select();" >
+      <input class="form-control" type="text" name="url" value="http://maps.gstatic.com/intl/en_uk/mapfiles/419c/maps2/mod_poly.js" size="40" onfocus="javascript:this.focus();this.select();" >
 	    <button class="btn btn-default" type="submit" name="type" value="replay">Latest</button>
 	    <button class="btn btn-default" type="submit" name="type" value="urlquery">Show All</button>
 	  </form>
 	</div>
 <div id="error">
-<h2>Hrm.</h2>
-<p>The Wayback Machine has not archived that URL.</p>
-    <p>Click here to search for all archived pages under
-      <a href="https://web.archive.org/web/*/http://maps.gstatic.com/intl/en_uk/mapfiles/419c/maps2/*">http://maps.gstatic.com/intl/en_uk/mapfiles/419c/maps2/</a>.
-    </p>
-</div>
+    <div class="error-text">The Wayback Machine has not archived that URL.</div>
+    <div class="error-help error-help-proceed">
+      <p>Click here to search for all archived pages under
+        <a href="https://web.archive.org/web/*/http://maps.gstatic.com/intl/en_uk/mapfiles/419c/maps2/*">http://maps.gstatic.com/intl/en_uk/mapfiles/419c/maps2/</a>.
+      </p>
+    </div></div>
       </div>
     </div>
   </div>

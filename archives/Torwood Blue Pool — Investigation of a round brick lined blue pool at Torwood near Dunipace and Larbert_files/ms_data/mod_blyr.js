@@ -1,4 +1,4 @@
-var _____WB$wombat$assign$function_____=function(name){return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name))||self[name];};if(!self.__WB_pmw){self.__WB_pmw=function(obj){this.__WB_source=obj;return this;}}{
+var _____WB$wombat$assign$function_____=function(name){return (globalThis._wb_wombat && globalThis._wb_wombat.local_init && globalThis._wb_wombat.local_init(name))||globalThis[name];};if(!globalThis.__WB_pmw){globalThis.__WB_pmw=function(obj){this.__WB_source=obj;return this;}}{
 let window = _____WB$wombat$assign$function_____("window");
 let self = _____WB$wombat$assign$function_____("self");
 let document = _____WB$wombat$assign$function_____("document");
@@ -6,7 +6,7 @@ let location = _____WB$wombat$assign$function_____("location");
 let top = _____WB$wombat$assign$function_____("top");
 let parent = _____WB$wombat$assign$function_____("parent");
 let frames = _____WB$wombat$assign$function_____("frames");
-let opens = _____WB$wombat$assign$function_____("opens");
+let opener = _____WB$wombat$assign$function_____("opener");
 <!DOCTYPE html>
 <html lang=en>
   <meta charset=utf-8>
@@ -22,7 +22,7 @@ let opens = _____WB$wombat$assign$function_____("opens");
 }
 <!--
      FILE ARCHIVED ON 21:34:16 Aug 04, 2013 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 20:21:52 Mar 17, 2026.
+     INTERNET ARCHIVE ON 20:17:13 Jun 16, 2026.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -30,14 +30,8 @@ let opens = _____WB$wombat$assign$function_____("opens");
 -->
 <!--
 playback timings (ms):
-  capture_cache.get: 0.436
-  captures_list: 0.536
-  exclusion.robots: 0.022
-  exclusion.robots.policy: 0.013
-  esindex: 0.009
-  cdx.remote: 13.032
-  LoadShardBlock: 191.47 (3)
-  PetaboxLoader3.datanode: 214.227 (4)
-  load_resource: 90.141
-  PetaboxLoader3.resolve: 55.938
+  capture_cache.get: 8.457
+  load_resource: 986.254
+  PetaboxLoader3.resolve: 949.573
+  PetaboxLoader3.datanode: 36.01
 -->
