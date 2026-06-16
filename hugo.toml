@@ -31,3 +31,7 @@ theme = 'torwood'
     name = 'Contact'
     pageRef = '/contact'
     weight = 40
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

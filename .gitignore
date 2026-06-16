@@ -13,6 +13,11 @@ hugo.linux
 # Temporary lock file while building
 /.hugo_build.lock
 
+# IDE / OS
+.vscode/
+.DS_Store
+Thumbs.db
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
