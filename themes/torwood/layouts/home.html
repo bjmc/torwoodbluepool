@@ -18,9 +18,5 @@
     <p>No posts yet. Check back soon for updates on the investigation.</p>
   {{ end }}
 
-  {{ if site.Data.guestbook.comments }}
-    <h2>Recent Comments</h2>
-    {{ $comments := site.Data.guestbook.comments }}
-    {{ partial "comments.html" (first 5 $comments) }}
-  {{ end }}
+  <p><a href="/guestbook/">Visit the guestbook &rarr;</a></p>
 {{ end }}

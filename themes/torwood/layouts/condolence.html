@@ -9,7 +9,7 @@
 
   {{ .Content }}
 
-  {{ $comments := site.Data.condolences.comments }}
+  {{ $comments := hugo.Data.condolences.comments }}
   {{ if gt (len $comments) 0 }}
     <h2 class="comments-title">Condolences</h2>
     {{ partial "comments.html" $comments }}

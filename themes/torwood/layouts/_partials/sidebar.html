@@ -26,8 +26,8 @@
 {{- end }}
 
 {{- /* Recent Comments */ -}}
-{{- $guestbookComments := site.Data.guestbook.comments -}}
-{{- $condolenceComments := site.Data.condolences.comments -}}
+{{- $guestbookComments := hugo.Data.guestbook.comments -}}
+{{- $condolenceComments := hugo.Data.condolences.comments -}}
 {{- $allComments := slice -}}
 {{- range $guestbookComments }}
   {{- $allComments = $allComments | append . -}}
@@ -40,7 +40,7 @@
   <h3>Recent Comments</h3>
   <ul>
     {{- range first 5 $allComments }}
-      <li>{{ .author }} on <a href="/home/">{{ "What We Know" }}</a></li>
+      <li>{{ .author }} on <a href="/guestbook/">{{ "Guestbook" }}</a></li>
     {{- end }}
   </ul>
 </section>

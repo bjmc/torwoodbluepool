@@ -23,6 +23,11 @@ theme = 'torwood'
     weight = 30
 
   [[menus.main]]
+    name = 'Guestbook'
+    pageRef = '/guestbook'
+    weight = 25
+
+  [[menus.main]]
     name = 'Contact'
     pageRef = '/contact'
     weight = 40

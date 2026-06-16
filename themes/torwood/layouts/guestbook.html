@@ -9,9 +9,9 @@
 
   {{ .Content }}
 
-  {{ $comments := site.Data.guestbook.comments }}
+  {{ $comments := hugo.Data.guestbook.comments }}
   {{ if gt (len $comments) 0 }}
-    <h2 class="comments-title">{{ len $comments }} thoughts on the investigation</h2>
+    <h2 class="comments-title">166 thoughts on the investigation</h2>
     {{ partial "comments.html" $comments }}
   {{ end }}
 {{ end }}
