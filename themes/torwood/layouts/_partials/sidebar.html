@@ -1,8 +1,8 @@
-{{- /* Renders the sidebar with Recent Posts, Archives, and Recent Comments */ -}}
+{{- /* Renders the sidebar with Latest Posts and Archives */ -}}
 
-{{- /* Recent Posts */ -}}
+{{- /* Latest Posts */ -}}
 <section>
-  <h3>Recent Posts</h3>
+  <h3>Latest Posts</h3>
   <ul>
     {{- $posts := where site.RegularPages "Section" "posts" -}}
     {{- range first 5 $posts.ByDate.Reverse }}
@@ -24,27 +24,6 @@
       <li><a href="/posts/#{{ $anchor }}">{{ .Key }} ({{ len .Pages }})</a></li>
     {{- end }}
     <li><a href="/posts/">View all {{ $postCount }} posts &rarr;</a></li>
-  </ul>
-</section>
-{{- end }}
-
-{{- /* Recent Comments */ -}}
-{{- $guestbookComments := hugo.Data.guestbook.comments -}}
-{{- $condolenceComments := hugo.Data.condolences.comments -}}
-{{- $allComments := slice -}}
-{{- range $guestbookComments }}
-  {{- $allComments = $allComments | append . -}}
-{{- end -}}
-{{- range $condolenceComments }}
-  {{- $allComments = $allComments | append . -}}
-{{- end -}}
-{{- if gt (len $allComments) 0 }}
-<section>
-  <h3>Recent Comments</h3>
-  <ul>
-    {{- range first 5 $allComments }}
-      <li>{{ .author }} on <a href="/guestbook/">{{ "Guestbook" }}</a></li>
-    {{- end }}
   </ul>
 </section>
 {{- end }}
