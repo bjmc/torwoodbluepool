@@ -276,6 +276,37 @@ time {
   line-height: 1.5;
 }
 
+/* === FIGURES === */
+figure {
+  margin: 1em 0;
+  text-align: center;
+}
+figure.imageright {
+  float: right;
+  margin: 0.5em 0 0.5em 1em;
+  max-width: 50%;
+}
+figure.imageleft {
+  float: left;
+  margin: 0.5em 1em 0.5em 0;
+  max-width: 50%;
+}
+figcaption {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.8em;
+  color: #666;
+  font-style: italic;
+  margin-top: 0.3em;
+}
+figure img {
+  display: block;
+  margin: 0 auto;
+}
+figure.imageright img,
+figure.imageleft img {
+  max-width: 100%;
+}
+
 /* === ORIGINAL NTGRAPHICS CSS CLASSES === */
 /* Preserved for use in Markdown content */
 
