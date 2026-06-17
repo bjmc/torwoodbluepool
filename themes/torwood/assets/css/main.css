@@ -9,6 +9,19 @@
   box-sizing: border-box;
 }
 
+/* https://discourse.gohugo.io/t/handling-images-size-aligning/1940/2 */
+img[src$='#floatleft']
+{
+	float:left;
+        //etc. etc/
+}
+
+img[src$='#floatright']
+{
+	float:right;
+       //etc. etc.
+}
+
 body {
   margin: 0;
   padding: 0;

@@ -1,8 +1,10 @@
 ## What We Know
 
-### \*\*\_![Nigel Turnball](/img/nigel-small.jpg "Nigel Turnball")This website was setup to retain and continue all the good work and valuable information collated by the late Nigel Turnbull.
+![Nigel Turnball](/img/nigel-small.jpg#floatright "Nigel Turnball")
 
-All first-person references within the text are referring to Nigel.\_\*\*
+_This website was setup to retain and continue all the good work and valuable information collated by the late Nigel Turnbull._
+
+_All first-person references within the text are referring to Nigel._
 
 ---
 
@@ -63,32 +65,4 @@ Looking North-ish
 
 ---
 
-![Satellite view of the Torwood area](/img/satellitephoto.jpg)
-
-The pool is not visible from the nearby path. If you know about it then you either came across it by chance or someone told you where it was. Most locals I have spoken to have never heard of the blue pool.
-
----
-
-![Hand-made brick](/img/brick.jpg)
-
-The pool is constructed of a circular brick wall that is three bricks wide. The brick wall is surrounded by a layer of blue clay used as waterproofing. The bricks seem to be handmade and have no company markings.
-
-![English garden wall bond](/img/englishbond.jpg)
-
-Detail of the brick bond.
-
-![Green slime on the brickwork](/img/greenslime.jpg)
-
-The internal brickwork was covered with hairy slimy algae but there were surprising patches of brickwork that were clean.
-
-![Debris at the arch opening](/img/debris.jpg)
-
-Bottom debris at arch opening. The foreshortening effect of looking through water makes the pool look shallow.
-
-![Arch detail showing side wall](/img/archdetail.jpg)
-
-Detail to the right of the arch with vertical side clearly visible.
-
----
-
-### _**For further reading, please start at the [posts page](/posts/).**_
+### _For further reading, please start at the [posts page](/posts/)._
