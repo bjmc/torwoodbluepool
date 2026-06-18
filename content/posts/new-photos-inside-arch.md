@@ -6,20 +6,15 @@ title = 'New Photos Inside Arch Still Inconclusive'
   author = 'Admin'
 +++
 
-![New Torwood Blue Pool Photos](/img/arch-multi.jpg)
-
 **About a week ago,** I cleared as much weed from the inside of the arch as I could
 — not easy when you're working blind.
-
 Yesterday I tested my new makeshift underwater light with two car headlight
 bulbs and a lead acid battery. My new light proved ineffective at penetrating the
 gloom behind the arch and not as effective as the small on-camera flash which
 unfortunately makes tiny particles in front of the lens look like floating dinner
 plates.
 
-![Pipe above Arch on left side](/img/leftpipe.jpg#floatleft) ![Pipe above Arch on right side](/img/rightpipe.jpg#floatright)
-
-<div style="clear:both"></div>
+![New Torwood Blue Pool Photos](/img/arch-multi.jpg)
 
 **There is still weed to be cleared** but I can tell by counting bricks that the
 chamber behind the arch is at least 1.4 metres deep. The width is the same as the
@@ -27,6 +22,10 @@ arch at just under 2 metres. The height is unknown but the weed seems to be
 growing down from above the arch and during my recent clearing operation, I managed
 to push a stick up vertically behind the top of the arch to a distance of 1 metre
 — at least, I think that's what was happening.
+
+![Pipe above Arch on left side](/img/leftpipe.jpg#floatleft) ![Pipe above Arch on right side](/img/rightpipe.jpg#floatright)
+
+<div style="clear:both"></div>
 
 **I did manage to get** some better images of the 5 inch pipes and the small iron
 pipe around 1 inch in diameter.
