@@ -1,5 +1,5 @@
 +++
-date = 2012-05-21T00:00:00+00:00
+date = 2026-06-18T00:00:00+00:00
 draft = false
 title = 'Contact'
 weight = 30
@@ -7,6 +7,6 @@ weight = 30
   author = 'Admin'
 +++
 
-The original contact form for this site is no longer active.
+The guestbook and comments are now archived.
 
-If you have information, photographs, or memories of the Torwood Blue Pool, please consider adding a comment on the [What We Know](/) page or the [Words of Condolence](/words-of-condolence/) page.
+If you'd like to get in touch, you can contact [webmaster@torwoodbluepool.co.uk](mailto:webmaster@torwoodbluepool.co.uk)
