@@ -13,13 +13,15 @@
 img[src$='#floatleft']
 {
 	float:left;
-        //etc. etc/
+  padding: 0.2em 1em 0.2em 0;
+  border: none;
 }
 
 img[src$='#floatright']
 {
 	float:right;
-       //etc. etc.
+  padding: 0.2em 0 0.2em 1em;
+  border: none;
 }
 
 body {

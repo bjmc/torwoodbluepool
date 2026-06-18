@@ -7,12 +7,15 @@ title = 'Behind The Arch'
 +++
 
 I **I was fairly sure I had cleared most of the weed** from the arch by the time I lowered the camera into the pool last Sunday. Clarity of the water was excellent.
+
 Previous still photos had been pot luck as I was working blind. This time I used the same underwater camera but in VIDEO mode — hopefully I would get a few useful frames, albeit at much lower resolution than the Still-photos.
 New lights were attached but once again proved woefully inadequate. After the shoot, I viewed the video on the camera screen and the back wall of the chamber was just black.
 
 **I loaded the video into the computer and boosted the dark shadows**. Although this dropped the quality, the resultant video is very informative.
 From the Pool, I pointed the camera through the Arch (the First Arch) and saw the rectangular chamber of three vertical brick walls — I am assuming that the fourth (unseen) wall is the curve of the Pool. The width of the chamber is the same as the First Arch at just under two metres. The height of the chamber is greater than the Arch and I suspect this chamber may well be a maintenance/Inspection chamber with a manhole cover not far below the heather and grass.
+
 **The back wall of the chamber has another brick Arch (the Second Arch).** It is the same width as the First Arch but appears taller. This may be an illusion or it could be that we are not seeing the bottom of the First Arch because of debris. The depth of the chamber between the First and Second Arches appears to be about three metres.
+
 **About one metre behind the Second Arch, appears to be another Arch (the Third Arch ?)** and that has me a bit puzzled. The black void in the centre could well be a tunnel.
 
  <video controls >
