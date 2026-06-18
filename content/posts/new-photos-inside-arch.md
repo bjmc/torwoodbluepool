@@ -36,11 +36,7 @@ stages. Note how the photo of the left pipe has caught a black circular shape th
 looks like it has entered a void — the chamber behind the Arch? — mmm . . .
 could be the end of the cattle trough theory.
 
-![Twin pipes above the Arch](/img/twinpipes.jpg#floatleft)
-
-![Single clay pipe](/img/singlepipe.jpg#floatright)
-
-<div style="clear:both"></div>
+![Twin pipes above the Arch](/img/twinpipes.jpg#floatleft) ![Single clay pipe](/img/singlepipe.jpg#floatright)
 
 **I am assuming these pipes are ceramic/clay** but I must remember to take a magnet
 up some day to check if they are iron.
