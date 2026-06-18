@@ -7,5 +7,3 @@ weight = 15
 [params]
   author = 'Commenters'
 +++
-
-## Guestbook
